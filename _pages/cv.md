@@ -13,23 +13,7 @@ Education
 ======
 * M.S. in Beijing, Peking University, 2026 (expected)
 * B.S. in Wuhan, Hubei University of Chinese Medicine, 2022
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
