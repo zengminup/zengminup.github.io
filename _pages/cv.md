@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Beijing, Peking University, 2026 (expected)
-
+* B.S. in Wuhan, Hubei University of Chinese Medicine, 2022
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
