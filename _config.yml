@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Min Zeng/ Site Title"
+title                    : "Min Zeng/ Academic Homepage"
 title_separator          : "-"
 name                     : &name "Min Zeng"
 description              : &description "personal description"
