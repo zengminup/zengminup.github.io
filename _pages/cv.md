@@ -26,14 +26,15 @@ Skills
   * Bulk RNA-seq
   * Single Cell RNA-seq
   * Bulk ATAC-seq
+  * Spatial Transcriptomics
 * Flow Cytometry
-  * Gut Lamina Propria Lyphocyte (LPL) for ILCs or Th Cells
-  * Gut IEL
+  * Gut Lamina Propria Lyphocyte (LPL)
+  * Gut Intraepithelial Lymphocytes (IEL)
   * Skin
 * Classic biochemical experiments
-  * PCR for
-  * 1
-  * 2
+  * PCR for genotyping
+  * qPCR for mRNA expression
+  * Western Blot for protein expression
 
 Publications
 ======
@@ -41,6 +42,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
    
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
