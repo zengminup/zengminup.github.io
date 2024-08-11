@@ -266,9 +266,10 @@ defaults:
       path: ""
       type: skills
     values:
-      layout: skill
+      layout: single
       author_profile: true
       share: true
+      comment: true
 
 
 # Sass/SCSS
