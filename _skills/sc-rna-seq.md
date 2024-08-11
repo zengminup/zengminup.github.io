@@ -1,12 +1,9 @@
 ---
 title: "Single Cell RNA-seq"
 collection: skills
-type: "Bioinformatics"
 permalink: /skills/sc-rna-seq
 excerpt: 'Single Cell RNA-seq analysis for mice intestinal lamina propria and Peyer’s patches for CD45+ immune cells (GSE124880, Immunity)'
 date: 2023-10-12
-tags:
-  - Bioinformatics
 ---
 
 Result
