@@ -1,8 +1,8 @@
 ---
 title: "Single Cell RNA-seq Tutorial (PBMC3K Example)"
-permalink: /posts/blog-rna-seq/
 date: 2023-09-01
-excerpt: 'Single Cell RNA-seq analysis for mice intestinal lamina propria and Peyer’s patches for CD45+ immune cells (GSE124880, Immunity)'
+permalink: /posts/blog-rna-seq/
+excerpt: 'Single Cell RNA-seq analysis tutorial for PMBC3K example'
 tags:
   - Bioinformatics
 ---
