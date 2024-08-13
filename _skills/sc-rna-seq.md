@@ -18,8 +18,6 @@ Result
 
 Method
 ======
-R package and github links and blog posts
-
-Remark
-======
-Others sc rna seq analysis can be shown in Blog Posts and github
+R package and code can be shown in github and Blogs. 
+[Github-Link](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger](https://github.com/zengminup/SC-RNA-seq)
+[Blog-Link]([https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger](https://zengminup.github.io/posts/blog-rna-seq/)
