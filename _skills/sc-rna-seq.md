@@ -19,6 +19,6 @@ Result
 Method
 ======
 R package and code can be shown in github and Blogs. <br/>
-[Github-Link](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger)<br/>
-[Blog-Link](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger)<br/>
+[Github-Link](https://github.com/zengminup/SC-RNA-seq)<br/>
+[Blog-Link](https://zengminup.github.io/posts/blog-rna-seq/)<br/>
 
