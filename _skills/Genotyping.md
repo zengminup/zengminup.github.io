@@ -27,7 +27,11 @@ Result
 | #611   | 5/7/22 | M          | +/-     | +/-        | Cre      | Cre     |               | Tdt/Tdt |
 | #612   | 5/7/22 | M          | +/-     | fl/fl      | Cre      | Cre     |               | WT/Tdt  |
 
- 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 **FLOW CYTOMETRY Results**<br><img src='/images/Flow.png'><br>
 
 
