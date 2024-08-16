@@ -8,13 +8,16 @@ date: 2023-10-12
 
 Result
 ======
-**UMAP-Figure**<br><img src='/images/GSE124880UMAP.png'><br>
+**UMAP Figure**<br><img src='/images/GSE124880UMAP.png'><br>
+
+**Cell Annotation Figure**<br><img src='/images/ILC.png'><br><img src='/images/T.png'>
  
-**VlnPlot-Figure**<br><img src='/images/GSE124880VlnPlot.png'><br>
+**VlnPlot Figure**<br><img src='/images/GSE124880VlnPlot.png'><br>
  
-**FeaturePlot-Figure**<br><img src='/images/GSE124880FeaturePlot.png'><br>
+**FeaturePlot Figure**<br><img src='/images/GSE124880FeaturePlot.png'><br>
  
-**DotPlot-Figure**<br><img src='/images/GSE124880DotPlot.png'><br>
+**DotPlot Figure**<br><img src='/images/GSE124880DotPlot.png'><br>
+
 
 Method
 ======
