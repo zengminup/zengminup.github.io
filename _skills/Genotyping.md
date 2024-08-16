@@ -8,34 +8,22 @@ date: 2022-11-23
 
 Result
 ======
-**PCR Results**<br><img src='/images/PCR.png'><br>
- <br>
-| Source |    ZC110    |        |          |             |          |          |                |           |
-|:------:|:-----------:|:------:|:--------:|:-----------:|:--------:|:--------:|:--------------:|:---------:|
-|   ZM   |  2022-05-27 |        |          |             |          |          |                |           |
-|   ID   |    D.O.B.   | Gender | Il18-/-  | Il18r fl/fl |  Il22Cre | Rorc-Cre | Rorc-E2Crimson | Rosa26TdT |
-|  #601  |    5/7/22   |    F   |    +/-   |     fl/+    | Cre weak |    Cre   |    E2Crimson   |  Tdt/Tdt  |
-|  #602  |    5/7/22   |    F   |    +/-   |    fl/fl    |    Cre   |    Cre   |    E2Crimson   |   WT/Tdt  |
-|  #603  |    5/7/22   |    F   |    +/-   |    fl/fl    | Cre weak |    Cre   |    E2Crimson   |   WT/Tdt  |
-|  #604  |    5/7/22   |    F   |    +/-   |    fl/fl    | Cre weak |    Cre   |                |   WT/WT   |
-|  #605  |    5/7/22   |    F   |    +/+   |     fl/+    |          |    Cre   |                |   WT/WT   |
-|  #606  |    5/7/22   |    M   |    +/-   |     fl/+    |          |    Cre   |                |   WT/WT   |
-|  #607  |    5/7/22   |    M   |    -/-   |     fl/+    |    Cre   |          |    E2Crimson   |  Tdt/Tdt  |
-|  #608  |    5/7/22   |    M   |    -/-   |    fl/fl    |          |    Cre   |                |   WT/Tdt  |
-|  #609  |    5/7/22   |    M   |    +/+   |     fl/+    |          |    Cre   |    E2Crimson   |   WT/Tdt  |
-|  #610  |    5/7/22   |    M   |    -/-   |     +/+     |          |    Cre   |                |  Tdt/Tdt  |
-|  #611  |    5/7/22   |    M   |    +/+   |     +/+     |    Cre   |    Cre   |                |  Tdt/Tdt  |
-|  #612  |    5/7/22   |    M   |    +/+   |    fl/fl    |    Cre   |    Cre   |                |   WT/Tdt  |
+**PCR Results Figure**<br><img src='/images/PCR.png'><br>
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+**PCR Results Excel**<br><img src='/images/excel.png'><br>
 
-**FLOW CYTOMETRY Results**<br><img src='/images/Flow.png'><br>
+
+**Flow Cytometry Results Figure**<br><img src='/images/Flow.png'><br>
 
 
 Method
 ======
-PCR方法
-流式方法 
+## PCR for Genotyping Method
+1. Check the expression of canonical cell type and cell state markers in these clusters;
+2. Identify signature genes, or marker genes, of each identified cell cluster. Based on the identified cluster marker genes, one can do literature search, enrichment analysis or do experiment (or ask people around) for annotation;
+3. For each cluster, compare its gene expression profile with existing reference data.
+
+## Flow Cytometry for Genotyping Method
+1. Check the expression of canonical cell type and cell state markers in these clusters;
+2. Identify signature genes, or marker genes, of each identified cell cluster. Based on the identified cluster marker genes, one can do literature search, enrichment analysis or do experiment (or ask people around) for annotation;
+3. For each cluster, compare its gene expression profile with existing reference data.
