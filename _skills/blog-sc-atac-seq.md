@@ -190,7 +190,7 @@ for(i in levels(pbmc)) {
   Idents(pbmc, cells = cells_to_reid) <- newid
 }
 ```
-**sc ATAC seq/sc RNA seq Figure** </img src="images/Signac-8.png"><br/>
+**sc ATAC seq-sc RNA seq Figure** </img src="/images/Signac-8.png"><br/>
 
 ### Step 7. Find differentially accessible peaks between cell types
 To find differentially accessible regions between clusters of cells, we can perform a differential accessibility (DA) test. A simple approach is to perform a Wilcoxon rank sum test, and the presto package has implemented an extremely fast Wilcoxon test that can be run on a Seurat object.
