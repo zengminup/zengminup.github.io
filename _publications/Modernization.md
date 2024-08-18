@@ -2,7 +2,7 @@
 title: "Staged Treatment Analysis of the Network Pharmacology Based Traditional Chinese Medicine Compound Three Chinese Patent Medicines, Three Traditional Chinese Medicine Formula in the Treatment of COVID-19 (in Chinese with English abstract)"
 collection: publications
 permalink: /publication/Modernization
-excerpt: #
+excerpt: ' '
 date: 2020-05-13
 venue: 'Modernization of Traditional Chinese Medicine and Materia Medica-World Science and Technology'
 slidesurl: #
