@@ -2,7 +2,7 @@
 title: "The pharmacological mechanism of Huashi Baidu Formula for the treatment of COVID-19 by combined network pharmacology and molecular docking"
 collection: publications
 permalink: /publication/Annals-of-Palliative-Medicine
-excerpt: 'This paper is about Bioinformatics for COVID-19. This study aims to investigate the potential therapeutic mechanism of HSBDF on COVID-19 through network pharmacology combined with molecular docking.'
+excerpt: #
 date: 2021-04-08
 venue: 'Annals of Palliative Medicine'
 slidesurl: #
