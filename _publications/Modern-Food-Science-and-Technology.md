@@ -2,7 +2,7 @@
 title: "Comparison of the Anti-diabetic Effects of the Crude Polysaccharides from Iron Stick Yam and Bergamot Yam (in Chinese with English abstract)"
 collection: publications
 permalink: /publication/Modern-Food-Science-and-Technology
-excerpt: 'This paper is about diabetes research. This article is to compare the antidiabetic effects of the crude polysaccharides of iron stick yam and bergamot yam, the scavenging effects of the two kinds of crude polysaccharides on DPPH and PTIO free radicals, the inhibitory effects on α-glucosidase, and the hypoglycemic and hypolipidemic effects were determined.'
+excerpt: #
 date: 2022-03-21
 venue: 'Modern Food Science and Technology'
 slidesurl: #
