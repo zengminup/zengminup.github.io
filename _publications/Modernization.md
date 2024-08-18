@@ -2,7 +2,7 @@
 title: "Staged Treatment Analysis of the Network Pharmacology Based Traditional Chinese Medicine Compound Three Chinese Patent Medicines, Three Traditional Chinese Medicine Formula in the Treatment of COVID-19 (in Chinese with English abstract)"
 collection: publications
 permalink: /publication/Modernization
-excerpt: 'This paper is about Bioinformatics for COVID-19. It is to explored the molecular mechanism of the multi-component, multi-target, and multi-pathway of the pharmacological effects of "Three Chinese Patent Medicines, Three Traditional Chinese Medicine Formula" in the treatment of COVID-19 and the traditional Chinese medicine connection of compounds′ medicinal flavor by bioinformatics.'
+excerpt: #
 date: 2020-05-13
 venue: 'Modernization of Traditional Chinese Medicine and Materia Medica-World Science and Technology'
 slidesurl: #
