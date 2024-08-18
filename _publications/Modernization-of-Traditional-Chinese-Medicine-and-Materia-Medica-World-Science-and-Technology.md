@@ -2,7 +2,7 @@
 title: "Analysis of Medication Rules and Pharmacological Mechanisms of Diabetes MellitusTreatment Based on Data Mining and Bioinformatics (in Chinese with English abstract)"
 collection: publications
 permalink: /publication/Modernization-of-Traditional-Chinese-Medicine-and-Materia-Medica-World-Science-and-Technology
-excerpt: #
+excerpt: ' '
 date: 2022-03-25
 venue: 'Modernization of Traditional Chinese Medicine and Materia Medica-World Science and Technology'
 slidesurl: #
