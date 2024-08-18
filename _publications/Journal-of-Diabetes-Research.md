@@ -2,7 +2,7 @@
 title: "The Health-Promoting Effects and the Mechanism of Intermittent Fasting"
 collection: publications
 permalink: /publication/Journal-of-Diabetes-Research
-excerpt: #
+excerpt: ' '
 date: 2023-03-03
 venue: 'Journal of Diabetes Research'
 slidesurl: #
