@@ -2,7 +2,7 @@
 title: "Decreased GATA3 levels cause changed mouse cutaneous innate lymphoid cell fate, facilitating hair follicle recycling"
 collection: publications
 permalink: /publication/Developmental-Cell
-excerpt: 'This paper is about cutaneous ILC. Decreased GATA3 levels in cutaneous ILCs lead to a divergent RORgt fate-mapped subgroup, which accumulates around the hair follicle dermal papilla region through GATA3- controlled integrin a3b1 upregulation, thereby facilitating hair follicle recycling.'
+excerpt: #
 date: 2024-07-22
 venue: 'Developmental Cell'
 slidesurl: #
