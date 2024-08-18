@@ -2,7 +2,7 @@
 title: "Analysis of Medication Rules and Pharmacological Mechanisms of Diabetes MellitusTreatment Based on Data Mining and Bioinformatics (in Chinese with English abstract)"
 collection: publications
 permalink: /publication/Modernization-of-Traditional-Chinese-Medicine-and-Materia-Medica-World-Science-and-Technology
-excerpt: 'This paper is about Bioinformatics. It is to explore the pharmacological mechanism of essential formulas for the treatment of diabetes, and to guide the prevention and treatment of diabetes, based on multi-algorithm mining the medication rule of treating diabetes and based on bioinformatics'
+excerpt: #
 date: 2022-03-25
 venue: 'Modernization of Traditional Chinese Medicine and Materia Medica-World Science and Technology'
 slidesurl: #
