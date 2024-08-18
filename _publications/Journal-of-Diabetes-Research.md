@@ -2,7 +2,7 @@
 title: "The Health-Promoting Effects and the Mechanism of Intermittent Fasting"
 collection: publications
 permalink: /publication/Journal-of-Diabetes-Research
-excerpt: 'This paper is about Intermittent Fasting. This article reviewed the research on the health-promoting effects of IF, providing a theoretical basis, direction for subsequent basic research, and information related to the clinical application of IF.'
+excerpt: #
 date: 2023-03-03
 venue: 'Journal of Diabetes Research'
 slidesurl: #
