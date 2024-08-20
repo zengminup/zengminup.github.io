@@ -8,8 +8,7 @@ date: 2023-11-24
 
 Result
 ======
-
-**UMAP Figure**<br><img src='/images/GSE124880UMAP.png'><br>
+1
 
 Method
 ======
@@ -51,6 +50,7 @@ do
 	rm ${headname}.clean.unpaired_2.fastq
 done
 ```
+**fastQC**<img src="/images/atac3.png"><br/>
  
 ### Step 2. SamToBam & filter low-quality mapping
 Samtools is a suite of programs for interacting with high-throughput sequencing data.
