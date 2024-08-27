@@ -8,7 +8,7 @@ date: 2023-11-24
 
 Result
 ======
-1
+**ILC Il18r ATAC-seq IGV GSE116093**<img src="/images/ILC-atac.png"><br/>
 
 Method
 ======
