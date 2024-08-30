@@ -1,8 +1,8 @@
 ---
-title: "Single Cell RNA-seq "
+title: "Single Cell RNA-seq (Based on Python-Scanpy)"
 collection: skills
 permalink: /skills/sc-rna-seq-scanpy
-excerpt: 'Single Cell RNA-seq analysis for PBMC3k based Python-Scanpy'
+excerpt: 'PBMC3k dataset'
 date: 2022-12-15
 ---
 
