@@ -1,5 +1,5 @@
 ---
-title: "Single Cell RNA-seq (Based on R)"
+title: "Single Cell RNA-seq (Based on R-Seurat)"
 collection: skills
 permalink: /skills/sc-rna-seq
 excerpt: 'Single Cell RNA-seq analysis for mice intestinal lamina propria and Peyer’s patches for CD45+ immune cells (GSE124880, Immunity)'
