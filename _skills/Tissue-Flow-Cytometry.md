@@ -8,8 +8,8 @@ date: 2023-12-25
 
 Result
 ======
-**SiLP ILC3s transcription factor**<br><img src='/images/Tissue-Flow-Cytometry-Buffer-ILC-Cytokines-siLP-ILC3.png'><br>
-**SiLP ILC3s cytokines**<br><img src='/images/Tissue-Flow-Cytometry-Buffer-ILC-Cytokines.png'><br>
+**SiLP ILC3s transcription factor**<br><img src='/images/Tissue-Flow-Cytometry-ILC-Cytokines-siLP-ILC3.png'><br>
+**SiLP ILC3s cytokines**<br><img src='/images/Tissue-Flow-Cytometry-ILC-Cytokines.png'><br>
 **Skin ILCs**<br><img src='/images/Tissue-Flow-Cytometry-Skin-ILC.png'><br>
 **IEC/IEL**<br><img src='/images/Tissue-Flow-Cytometry-IEL.png'><br>
 
