@@ -1,5 +1,5 @@
 ---
-title: "The pharmacological mechanism of Huashi Baidu Formula for the treatment of COVID-19 by combined network pharmacology and molecular docking"
+title: "The Pharmacological Mechanism of Huashi Baidu Formula For the Treatment of COVID-19 By Combined Network Pharmacology and Molecular Docking"
 collection: publications
 permalink: /publication/Annals-of-Palliative-Medicine
 excerpt: ' '
