@@ -41,8 +41,8 @@ Skills
 
 Academic Activities
 ======
-**Heliyon** Reviewer: reviewed 1 paper, Heliyon-Cell Press, IF=4.0
-**Annals of Palliative Medicine** Reviewer: reviewed 1 paper, AME Press, IF=1.9
+* **Heliyon** Reviewer: reviewed 1 paper, Heliyon-Cell Press, IF=4.0
+* **Annals of Palliative Medicine** Reviewer: reviewed 1 paper, AME Press, IF=1.9
 
 Publications
 ======
