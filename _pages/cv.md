@@ -22,19 +22,27 @@ Research Interests
 
 Skills
 ======
-* Bioinformatics
+* Bioinformatics (Linux, R, Python)
   * Bulk RNA-seq
   * Single Cell RNA-seq
   * Bulk ATAC-seq
+  * Single Cell ATAC-seq
   * Spatial Transcriptomics
 * Flow Cytometry
   * Gut Lamina Propria Lyphocyte (LPL)
   * Gut Intraepithelial Lymphocytes (IEL)
-  * Skin
+  * Skin Lymphocytes/ILCs
+  * Liver Lymphocytes/ILCs
+  * Ohter immune organs (Lymph nodes, Spleen)
 * Classic biochemical experiments
   * PCR for genotyping
   * qPCR for mRNA expression
   * Western Blot for protein expression
+
+Academic Activities
+======
+**Heliyon** Reviewer: reviewed 1 paper, Heliyon-Cell Press, IF=4.0
+**Annals of Palliative Medicine** Reviewer: reviewed 1 paper, AME Press, IF=1.9
 
 Publications
 ======
