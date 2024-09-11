@@ -1,5 +1,5 @@
 ---
-title: "Decreased GATA3 levels cause changed mouse cutaneous innate lymphoid cell fate, facilitating hair follicle recycling"
+title: "Decreased GATA3 Levels Cause Changed Mouse Cutaneous Innate Lymphoid Cell Fate, Facilitating Hair Follicle Recycling"
 collection: publications
 permalink: /publication/Developmental-Cell
 excerpt: ' '
