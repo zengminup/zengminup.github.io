@@ -34,15 +34,18 @@ Skills
   * Skin Lymphocytes/ILCs
   * Liver Lymphocytes/ILCs
   * Ohter immune organs (Lymph nodes, Spleen)
-* Classic biochemical experiments
+* Classic Biochemical Experiments
   * PCR for genotyping
   * qPCR for mRNA expression
   * Western Blot for protein expression
+* Bacteria Culture
+  * *Citrobacter freundii*
+  * *Salmonella Typhimurium*
 
 Academic Activities
 ======
-* **Heliyon** Reviewer: reviewed 1 paper, Heliyon-Cell Press, IF=4.0
-* **Annals of Palliative Medicine** Reviewer: reviewed 1 paper, AME Press, IF=1.9
+* **Heliyon Reviewer**: reviewed 1 paper, Heliyon-Cell Press, IF=4.0
+* **Annals of Palliative Medicine Reviewer**: reviewed 1 paper, AME Press, IF=1.9
 
 Publications
 ======
