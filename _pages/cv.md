@@ -13,11 +13,14 @@ Education
 ======
 * M.S. in Beijing, Peking University, Systems Biomedicine, 2026 (expected)
 
-Internship experience
+Academic Summary
 ======
-* Hubei Province Wuhan Traditional Chinese Medicine Health Food Engineering Technology Research Center, Part-time research assistant, 2019-2022
-* Hubei Xianfeng County Maternal and Child Health Hospital (Hospital), Pharmacist Intern, 2019.7-2019.9
-* Hubei Province Xianfeng County Food and Drug Administration (Government), intern, 2019.1-2019.3
+* 6 Paper (2 First), Total IF= 23.1, Cite= 86
+
+Academic Activities
+======
+* **Heliyon Reviewer**: Reviewed 1 paper, Cell Press, IF=4.0
+* **Annals of Palliative Medicine Reviewer**: Reviewed 1 paper, AME Press, IF=1.9
 
 Research Interests
 ======
@@ -47,10 +50,11 @@ Skills
   * *Citrobacter freundii*
   * *Salmonella Typhimurium* (also construction of fluorescent strains)
 
-Academic Activities
+Internship experience
 ======
-* **Heliyon Reviewer**: Reviewed 1 paper, Cell Press, IF=4.0
-* **Annals of Palliative Medicine Reviewer**: Reviewed 1 paper, AME Press, IF=1.9
+* Hubei Province Wuhan Traditional Chinese Medicine Health Food Engineering Technology Research Center, Part-time research assistant, 2019-2022
+* Hubei Xianfeng County Maternal and Child Health Hospital (Hospital), Pharmacist Intern, 2019.7-2019.9
+* Hubei Province Xianfeng County Food and Drug Administration (Government), intern, 2019.1-2019.3
 
 Publications
 ======
