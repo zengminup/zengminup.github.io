@@ -12,13 +12,18 @@ redirect_from:
 Education
 ======
 * M.S. in Beijing, Peking University, Systems Biomedicine, 2026 (expected)
-* B.S. in Wuhan, Hubei University of Chinese Medicine, Pharmacy, 2022
+
+Internship experience
+======
+* Hubei Province Wuhan Traditional Chinese Medicine Health Food Engineering Technology Research Center, Part-time research assistant, 2019-2022
+* Hubei Xianfeng County Maternal and Child Health Hospital (Hospital), Pharmacist Intern, 2019.7-2019.9
+* Hubei Province Xianfeng County Food and Drug Administration (Government), intern, 2019.1-2019.3
 
 Research Interests
 ======
 * Intestinal Mucosal Immune System
-* Innate Lymphoid Cells (ILCs) or T Helper (Th) Cells in Gut homeostasis
-* The Role of Interleukin-18 (IL-18) in Gut Homeostasis
+* Innate Lymphoid Cells and T Helper Cells in Gut homeostasis
+* The Role of Interleukin-18 in Gut Homeostasis
 
 Skills
 ======
@@ -29,23 +34,23 @@ Skills
   * Single Cell ATAC-seq
   * Spatial Transcriptomics
 * Flow Cytometry
-  * Gut Lamina Propria Lyphocyte (LPL)
-  * Gut Intraepithelial Lymphocytes (IEL)
-  * Skin Lymphocytes/ILCs
-  * Liver Lymphocytes/ILCs
-  * Ohter immune organs (Lymph nodes, Spleen)
+  * Gut Lamina Propria Lyphocytes(LPL)
+  * Gut Intraepithelial Lymphocytes(IEL)
+  * Skin Lymphocytes
+  * Liver Lymphocytes
+  * Ohter immune organs (Lymph nodes, Spleen, et al.)
 * Classic Biochemical Experiments
   * PCR for genotyping
   * qPCR for mRNA expression
   * Western Blot for protein expression
-* Bacteria Culture
+* Bacteria Culture and infection
   * *Citrobacter freundii*
-  * *Salmonella Typhimurium*
+  * *Salmonella Typhimurium* (also construction of fluorescent strains)
 
 Academic Activities
 ======
-* **Heliyon Reviewer**: reviewed 1 paper, Heliyon-Cell Press, IF=4.0
-* **Annals of Palliative Medicine Reviewer**: reviewed 1 paper, AME Press, IF=1.9
+* **Heliyon Reviewer**: Reviewed 1 paper, Cell Press, IF=4.0
+* **Annals of Palliative Medicine Reviewer**: Reviewed 1 paper, AME Press, IF=1.9
 
 Publications
 ======
