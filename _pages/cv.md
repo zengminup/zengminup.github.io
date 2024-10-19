@@ -31,7 +31,7 @@ Research Interests
 Skills
 ======
 * Bioinformatics (Linux, R, Python)
-  * Bulk RNA-seq
+  * Bulk RNA-seq (Basic, Deconvolution)
   * Single Cell RNA-seq
   * Bulk ATAC-seq
   * Single Cell ATAC-seq
@@ -50,6 +50,11 @@ Skills
 * Bacteria Culture and infection
   * *Citrobacter freundii*
   * *Salmonella Typhimurium*
+* Animal Experiment
+  * Transgenic mouse management (Cre-flox, knockout, knockin, Report, fate-mapping)
+  * Intestine Disease Model (DSS, AOM-DSS, Bacterial infection)
+  * Skin inflammation Model (Psoriasis, Wound healing, Atopic dermatitis, Hair regrowth)
+  * Metabolism Disease Model (Diabetes, Obersity)
 
 Internship experience
 ======
