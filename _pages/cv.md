@@ -24,9 +24,9 @@ Academic Activities
 
 Research Interests
 ======
-* Intestinal Mucosal Immune System
+* Mucosal immunity (Intestine, Skin, et al.)
 * Innate Lymphoid Cells and T Helper Cells in Gut homeostasis
-* The Role of Interleukin-18 in Gut Homeostasis
+* The Role of Interleukin-18 in Gut/Skin Homeostasis
 
 Skills
 ======
@@ -48,7 +48,7 @@ Skills
   * Western Blot for protein expression
 * Bacteria Culture and infection
   * *Citrobacter freundii*
-  * *Salmonella Typhimurium* (also construction of fluorescent strains)
+  * *Salmonella Typhimurium*
 
 Internship experience
 ======
