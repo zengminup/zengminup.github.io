@@ -12,6 +12,7 @@ Result
 **Upstream_Result1**<img src="/images/Skills-Bulk-rna-seq/upstream1.png"><br/>
 
 **Upstream_Result2**<img src="/images/Skills-Bulk-rna-seq/upstream2.png"><br/>
+Counting result is most important, using this by R to get the result (Heatmap, Volcano Plot, GO/KEGG, GSEA, and other interested downstream figures)<br/>
 
 **Downstream_Result (for example)**<img src="/images/Skills-Bulk-rna-seq/downstream.png"><br/>
 
