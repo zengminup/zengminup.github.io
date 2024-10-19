@@ -37,8 +37,8 @@ Skills
   * Single Cell ATAC-seq
   * Spatial Transcriptomics
 * Flow Cytometry
-  * Gut Lamina Propria Lyphocytes(LPL)
-  * Gut Intraepithelial Lymphocytes(IEL)
+  * Gut Lamina Propria Lyphocytes (LPL)
+  * Gut Intraepithelial Lymphocytes (IEL)
   * Skin Lymphocytes
   * Liver Lymphocytes
   * Ohter immune organs (Lymph nodes, Spleen, et al.)
@@ -46,6 +46,7 @@ Skills
   * PCR for genotyping
   * qPCR for mRNA expression
   * Western Blot for protein expression
+  * Paraffin-embedded tissue sections
 * Bacteria Culture and infection
   * *Citrobacter freundii*
   * *Salmonella Typhimurium*
