@@ -9,12 +9,29 @@ date: 2024-01-24
 Result
 ======
 
+**Bulk RNA sequencing workflow**<img src="/images/Skills-Bulk-rna-seq/upstream-workflow.png"><br/>
+Bulk RNA sequencing is the method of choice for transcriptomic analysis of pooled cell populations, tissue sections, or biopsies. It measures the average expression level of individual genes across hundreds to millions of input cells and is useful to get a global idea of gene expression differences between samples.<br/>
+
 **Upstream_Result1**<img src="/images/Skills-Bulk-rna-seq/upstream1.png"><br/>
 
 **Upstream_Result2**<img src="/images/Skills-Bulk-rna-seq/upstream2.png"><br/>
 Counting result is most important, using this by R to get the result (Heatmap, Volcano Plot, GO/KEGG, GSEA, and other interested downstream figures)<br/>
 
 **Downstream_Result (for example)**<img src="/images/Skills-Bulk-rna-seq/downstream.png"><br/>
+
+**Downstream_Result (GSE19188 PCA)**<img src="/images/Skills-Bulk-rna-seq/GSE19188-1.png"><br/>
+
+**Downstream_Result (GSE19188 UMAP)**<img src="/images/Skills-Bulk-rna-seq/GSE19188-2.png"><br/>
+
+**Downstream_Result (GSE19188 Volcano Plot)**<img src="/images/Skills-Bulk-rna-seq/GSE19188-3.png"><br/>
+
+**Downstream_Result (GSE19188 Heat Map)**<img src="/images/Skills-Bulk-rna-seq/GSE19188-4.png"><br/>
+
+**Downstream_Result (GSE19188 GO)**<img src="/images/Skills-Bulk-rna-seq/GSE19188-5.png"><br/>
+
+**Downstream_Result (GSE19188 KEGG)**<img src="/images/Skills-Bulk-rna-seq/GSE19188-6.png"><br/>
+
+
 
 Method
 ======
