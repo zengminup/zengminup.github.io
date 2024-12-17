@@ -64,8 +64,8 @@ Backgroud: Inflammatory Bowel Disease (IBD), which includes Crohn's disease and 
 
 <br/>
 Different time point for DSS (IBD), data from our own sequence.
-**DSS result** <img src="/images/Bioinformatics/DSS.png"><br/>
-**DSS single cell RNA-seq** from mcie colon for Lamina propria and epithelium, almost 300,000 cells <img src="/images/Bioinformatics/DSS-sc.png"><br/>
+**DSS result** <img src="/images/Bioinformatics/DSS.jpg"><br/>
+**DSS single cell RNA-seq** from mcie colon for Lamina propria and epithelium, almost 300,000 cells <img src="/images/Bioinformatics/DSS-sc.jpg"><br/>
 
 
 
