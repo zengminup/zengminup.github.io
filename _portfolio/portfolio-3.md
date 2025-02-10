@@ -1,6 +1,7 @@
 ---
 title: "How IL18 promote Instestine Homeostasis"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/LPL-umap.png'>"
+date: 2025-02-05
 collection: portfolio
 ---
 
