@@ -43,10 +43,10 @@ The mechanism of natural drug on diabetes for bioinformatics results 3 <img src=
 
 The mechanism of natural drug on diabetes for bioinformatics results 4 <img src='/images/metabolism/mechanism4.jpg'><br/><br/>
 
-Summary by flowchart <img src='/images/metabolism/mechanism5.jpg'><br/><br/>
+Summary by flowchart <br/><img src='/images/metabolism/mechanism5.jpg'><br/><br/>
 
 ## The experiment results of natural drug (SGD) on diabetes/obesity 
-**The raw flowchart** <img src='/images/metabolism/flowchart.jpg'><br/><br/>
+**The raw flowchart** <img src='/images/metabolism/flowchart.png'><br/><br/>
 
 **SGD on diabetes about phenotype** <br/><img src='/images/metabolism/SGD1.jpg'><br/><br/><img src='/images/metabolism/SGD2.jpg'><br/><br/><img src='/images/metabolism/SGD3.jpg'><br/><br/><img src='/images/metabolism/SGD4.jpg'><br/><br/><img src='/images/metabolism/SGD5.jpg'><br/><br/>
 
