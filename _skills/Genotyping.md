@@ -2,9 +2,16 @@
 title: "Genotyping (Based on PCR Genotyping and Blood Flow Cytometry Genotyping)"
 collection: skills
 permalink: /skills/Genotyping
-excerpt: 'Using PCR for the conditional genotyping and using flow cytometry for the Repot mice or Fate-Mapping'
+excerpt: 'Using PCR for the conditional genotyping and using flow cytometry for the Repot mice or Fate-Mapping. <br><img src="/images/Flow.png">'
 date: 2022-11-23
 ---
+
+Background
+======
+## Genotyping (PCR and Blood Flow Cytometry)
+Genotyping is a fundamental molecular biology technique used to determine genetic variants and allelic composition in individuals or populations. I specialize in two key methodologies: PCR-based genotyping and blood flow cytometry genotyping. PCR genotyping involves the amplification of target DNA regions using sequence-specific primers, followed by gel electrophoresis or capillary electrophoresis to identify polymorphisms, insertions, deletions, or single nucleotide variants. This method is highly sensitive and widely applied in genetic screening, mutation analysis, and transgenic model validation.<br>
+
+For blood-based systems, I utilize flow cytometry genotyping, which combines fluorescently labeled antibodies or probes with high-throughput cell sorting to analyze and isolate cell populations based on specific surface or intracellular markers. This approach is particularly valuable for immunophenotyping, identifying hematopoietic lineages, and characterizing genetically modified cells in vivo. Together, these techniques enable precise genetic profiling and functional analysis, supporting research in genetics, immunology, and disease modeling.<br>
 
 Result
 ======
