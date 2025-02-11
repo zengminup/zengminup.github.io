@@ -2,9 +2,16 @@
 title: "Bulk ATAC-seq"
 collection: skills
 permalink: /skills/bulk-atac-seq
-excerpt: 'Bulk ATAC-seq for ILCs'
+excerpt: 'Bulk ATAC-seq for ILCs. <br/><img src="/images/ILC-atac.png">'
 date: 2023-11-24
 ---
+
+Background
+======
+## Bulk-ATAC-seq (Assay for Transposase-Accessible Chromatin using sequencing)
+Bulk-ATAC-seq is a powerful high-throughput sequencing technique used to profile chromatin accessibility across the genome. This method leverages a hyperactive Tn5 transposase to insert sequencing adapters into open regions of chromatin, enabling the identification of regulatory elements such as promoters, enhancers, and other DNA-protein interaction sites. As a skilled practitioner of Bulk-ATAC-seq, I am proficient in experimental design, library preparation, and downstream bioinformatics analysis, including peak calling, motif enrichment analysis, and integration with other omics datasets (e.g., RNA-seq, ChIP-seq). My expertise in this technique has enabled me to investigate epigenetic mechanisms underlying gene regulation in various biological contexts, contributing to a deeper understanding of cellular differentiation, disease states, and transcriptional networks. By combining Bulk-ATAC-seq with advanced computational tools, I aim to uncover novel insights into the dynamic interplay between chromatin architecture and gene expression.<br/>
+
+A significant application of my work involves leveraging Bulk-ATAC-seq to study the epigenetic mechanisms governing immune cell differentiation and function. Specifically, I have employed this technique to investigate the chromatin dynamics of T helper (Th) cells and Innate Lymphoid Cells (ILCs), two critical components of the immune system. In Th cells, Bulk-ATAC-seq has allowed me to dissect the regulatory networks underlying their subset differentiation (e.g., Th1, Th2, Th17, and Treg cells) and their roles in immune responses and diseases. Similarly, in ILCs, I have utilized this approach to explore the epigenetic regulation of their development and functional plasticity, shedding light on their contributions to innate immunity and tissue homeostasis.<br/>
 
 Result
 ======
