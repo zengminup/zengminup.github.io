@@ -2,9 +2,18 @@
 title: "Single Cell RNA-seq (Based on R-Seurat)"
 collection: skills
 permalink: /skills/sc-rna-seq
-excerpt: 'Single Cell RNA-seq analysis for mice intestinal lamina propria and Peyer’s patches for CD45+ immune cells (GSE124880, Immunity)'
+excerpt: 'Single Cell RNA-seq analysis for mice intestinal lamina propria and Peyer’s patches for CD45+ immune cells (GSE124880, Immunity). <br><img src="/images/GSE124880UMAP.png">'
 date: 2023-10-12
 ---
+
+Background
+======
+## Single Cell RNA-seq (scRNA-seq)
+Single Cell RNA-seq is a transformative technology that enables the profiling of gene expression at single-cell resolution, offering unprecedented insights into cellular heterogeneity, developmental trajectories, and functional states within complex tissues. As a proficient user of scRNA-seq, I specialize in experimental design, single-cell library preparation, and advanced computational analysis to dissect the transcriptional landscapes of diverse cell populations. My work extensively utilizes R-Seurat, a powerful and widely adopted toolkit for scRNA-seq data analysis, to perform quality control, dimensionality reduction, clustering, and differential gene expression analysis.<br>
+
+In the field of immunology, I have applied scRNA-seq to investigate the functional diversity and regulatory mechanisms of immune cells, with a particular focus on T helper (Th) cells and Innate Lymphoid Cells (ILCs). By integrating scRNA-seq with other omics approaches, such as Bulk-ATAC-seq, I have uncovered novel insights into the transcriptional programs driving Th cell subset differentiation (e.g., Th1, Th2, Th17, and Treg cells) and the plasticity of ILCs in response to environmental cues. These findings have deepened our understanding of immune cell dynamics in health and disease, including autoimmune disorders, infections, and cancer.<br>
+
+Through the application of scRNA-seq and tools like Seurat, I aim to unravel the complexity of immune cell interactions and signaling networks, paving the way for the development of targeted immunotherapies and precision medicine approaches. My expertise in this area bridges experimental and computational biology, enabling the discovery of novel biomarkers and therapeutic targets in immunology and beyond.<br>
 
 Result
 ======
