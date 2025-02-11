@@ -2,13 +2,17 @@
 title: "Single Cell RNA-seq (Based on Python-Scanpy)"
 collection: skills
 permalink: /skills/sc-rna-seq-scanpy
-excerpt: 'PBMC3k dataset'
+excerpt: 'PBMC3k dataset. <br/><img src="/images/scanpy10.png">'
 date: 2022-12-15
 ---
 
+Background
+======
+## Single Cell RNA-seq Analysis (Python-Scanpy)
+Single Cell RNA-seq (scRNA-seq) is a powerful genomic technology that enables the profiling of gene expression at single-cell resolution, providing insights into cellular heterogeneity, developmental trajectories, and functional states. Using the Python-based Scanpy framework, I perform comprehensive analysis of scRNA-seq datasets, including quality control, normalization, and removal of technical artifacts. The workflow incorporates dimensionality reduction techniques such as PCA, UMAP, and t-SNE for visualization, alongside graph-based clustering to identify distinct cell populations. Differential expression analysis is applied to characterize marker genes and define cell-type-specific signatures. Additionally, I utilize trajectory inference methods to model dynamic processes such as differentiation or cellular responses. Integration with other omics datasets (e.g., ATAC-seq, spatial transcriptomics) is also employed to explore regulatory mechanisms and spatial organization. This approach is widely applied in studying complex biological systems, including development, cancer, and immunology, to uncover novel cell types, states, and interactions.<br/>
+
 Process
 ======
-
 ### Step 0. Get the sequence data
 ```Linux
 wget http://cf.10xgenomics.com/samples/cell-exp/1.1.0/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz
@@ -169,5 +173,5 @@ sc.pl.umap(
 )
 sc.pl.dotplot(adata, marker_genes, groupby="leiden");
 ```
-**Annotation Plot** <img src="/images/scanpy10.png"><br/>
-**Dot Plot2** <img src="/images/scanpy11.png"><br/>
+**Annotation Plot** <br/><img src="/images/scanpy10.png"><br/>
+**Dot Plot2** <br/><img src="/images/scanpy11.png"><br/>
