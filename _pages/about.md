@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 Welcome to my academic homepage.<br>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=gWFKnUUd4_GLLUZ-nESj6bbNl_sk20p-6azhuIyP1Fg&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=gWFKnUUd4_GLLUZ-nESj6bbNl_sk20p-6azhuIyP1Fg&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
 
