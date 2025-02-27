@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Beijing, Peking University, Systems Biomedicine, 2026 (expected)
+* M.S. in Beijing, Peking University, Systems Biomedicine, 3.24/4, (2026.6 expected)
 
 Academic Summary
 ======
