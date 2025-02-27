@@ -2,7 +2,7 @@
 title: "Deconvolution for Bulk-RNA-seq"
 collection: skills
 permalink: /skills/deconvolution_bulk_rna_seq
-excerpt: 'Deconvolution by using CIBERSORTx (GSE122459) <br/><img src="/images/Deconvolution_post_7/post_7_4.png"><br/>'
+excerpt: 'Deconvolution by using CIBERSORTx (GSE122459) <br/><img src="/images/Deconvolution_post_7/post_7_4.png", style="width:150px; height:75px><br/>'
 date: 2024-10-19
 ---
 
