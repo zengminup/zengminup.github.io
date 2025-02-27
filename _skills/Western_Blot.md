@@ -2,7 +2,8 @@
 title: "Western Blot"
 collection: skills
 permalink: /skills/Western_Blot
-excerpt: 'Using Western Blot to detect the protein expression about metabolism.  <br/><img src="/images/WB.png">'
+excerpt: 'Using Western Blot to detect the protein expression about metabolism. <br/>
+<img src="/images/WB.png" style="width:600px; height:250px;" align="center">'
 date: 2024-03-25
 ---
 
