@@ -2,7 +2,8 @@
 title: "Tissue Flow Cytometry for Surface Markers, Transcription Factor and Cytokines"
 collection: skills
 permalink: /skills/Tissue-Flow-Cytometry
-excerpt: 'For intestinal lamina propria lymphocytes (LPL), intestinal intraepithelial lymphocytes (IEL), intestinal  lymphocytes cell(IEC), Skin lymphocytes.<br/><img src="/images/Tissue-Flow-Cytometry-IEL.png">'
+excerpt: 'For intestinal lamina propria lymphocytes (LPL), intestinal intraepithelial lymphocytes (IEL), intestinal  lymphocytes cell(IEC), Skin lymphocytes. <br/>
+<img src="/images/Tissue-Flow-Cytometry-IEL.png" style="width:600px; height:250px;" align="center">'
 date: 2023-12-25
 ---
 
