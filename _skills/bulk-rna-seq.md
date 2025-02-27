@@ -2,7 +2,8 @@
 title: "Bulk RNA-seq"
 collection: skills
 permalink: /skills/bulk-rna-seq
-excerpt: 'Bulk RNA-seq for DSS_AOMDSS (GSE57569, just for code) <br/><img src="/images/Skills-Bulk-rna-seq/upstream-workflow.png">'
+excerpt: 'Bulk RNA-seq for DSS_AOMDSS (GSE57569, just for code)<br/>
+<img src="/images/Skills-Bulk-rna-seq/upstream-workflow.png" style="width:250px; height:600px;" align="center">'
 date: 2024-01-24
 ---
 
