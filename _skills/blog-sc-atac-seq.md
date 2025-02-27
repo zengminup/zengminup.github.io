@@ -2,7 +2,8 @@
 title: "Single Cell ATAC-seq analysis tutorial (PBMC3K Example based R Programming Language-Signac)"
 permalink: /posts/blog-sc-atac-seq/
 date: 2023-10-01
-excerpt: 'Single Cell ATAC-seq analysis tutorial. <br/><img src="/images/Signac-8.png">'
+excerpt: 'Single Cell ATAC-seq analysis tutorial. <br/>
+<img src="/images/Signac-8.png" style="width:600px; height:250px;" align="center">'
 tags:
   - Bioinformatics
 ---
