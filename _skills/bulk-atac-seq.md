@@ -17,7 +17,11 @@ Result
 ======
 The assay for transposase-accessible chromatin with sequencing (ATAC-Seq) is a popular method for determining chromatin accessibility across the genome. By sequencing regions of open chromatin, ATAC-Seq can help you uncover how chromatin packaging and other factors affect gene expression. ATAC-Seq does not require prior knowledge of regulatory elements, making it a powerful epigenetic discovery tool. It has been used to better understand chromatin accessibility, transcription factor binding, and gene regulation in complex diseases, embryonic development, T-cell activation, and cancer. ATAC-Seq can be performed on bulk cell populations or on single cells at high resolution.<br/>
 
-**ILC Il18r ATAC-seq IGV GSE116093**<img src="/images/ILC-atac.png"><br/>
+**ILC Il18r ATAC-seq IGV GSE116093**<br/><img src="/images/ILC-atac.png"><br/>
+**QC**<br/><img src="/images/ILC-atac3.png"><br/>
+**Other ATAC**<br/><img src="/images/ILC-atac4.png"><br/>
+
+
 
 Method
 ======
