@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Beijing, Peking University, Systems Biomedicine, 3.24/4, (2026.6 expected)
+* M.S. in Beijing, Peking University, Systems Biomedicine, 3.24/4 (2026.6 expected)
 
 Academic Summary
 ======
@@ -31,13 +31,13 @@ Research Interests
 Skills
 ======
 * Bioinformatics (Linux, R, Python)
-  * Bulk RNA-seq (Basic, Deconvolution)
-  * Single Cell RNA-seq
+  * Bulk RNA-seq
   * Bulk ATAC-seq
+  * Single Cell RNA-seq
   * Single Cell ATAC-seq
   * Spatial Transcriptomics
 * Flow Cytometry
-  * Gut Lamina Propria Lyphocytes (LPL)
+  * Gut Lamina Propria Lymphocytes (LPL)
   * Gut Intraepithelial Lymphocytes (IEL)
   * Skin Lymphocytes
   * Liver Lymphocytes
@@ -53,14 +53,9 @@ Skills
 * Animal Experiment
   * Transgenic mouse management (Cre-flox, knockout, knockin, Report, fate-mapping)
   * Intestine Disease Model (DSS, AOM-DSS, Bacterial infection)
-  * Skin inflammation Model (Psoriasis, Wound healing, Atopic dermatitis, Hair regrowth)
-  * Metabolism Disease Model (Diabetes, Obersity)
+  * Skin inflammation Model 
+  * Metabolism Disease Model (Diabetes, Obesity)
 
-Internship experience
-======
-* Hubei Province Wuhan Traditional Chinese Medicine Health Food Engineering Technology Research Center, Part-time research assistant, 2019-2022
-* Hubei Xianfeng County Maternal and Child Health Hospital (Hospital), Pharmacist Intern, 2019.7-2019.9
-* Hubei Province Xianfeng County Food and Drug Administration (Government), intern, 2019.1-2019.3
 
 Publications
 ======
