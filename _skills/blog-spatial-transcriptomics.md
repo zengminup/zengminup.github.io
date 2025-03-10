@@ -3,7 +3,7 @@ title: "Spatial Transcriptomics Analysis Tutorial (Scanpy)"
 permalink: /posts/blog-spatial-transcriptomics/
 date: 2024-10-01
 excerpt: 'Spatial Transcriptomics analysis tutorial. Example using Python and Scanpy. <br/>
-<img src="/images/spatial_scanpy/spatial2.png" style="width:600px; height:250px;">'
+<img src="/images/spatial_scanpy/spatial2.png" style="width:400px; height:650px;">'
 tags:
   - Bioinformatics
 ---
