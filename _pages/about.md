@@ -11,7 +11,11 @@ redirect_from:
 I am currently pursuing my Master’s degree in **Immunology** at [**Peking University**](https://www.pku.edu.cn/) <img src='./images/pku.png' style='width: 6em;'>, which is ranked **#14 globally** in the [QS World University Rankings 2024](https://www.topuniversities.com/universities/peking-university). I am grateful for the guidance of **Dr. Chao Zhong**, a distinguished researcher and **principal author** whose work has been published in **Immunity**, **Nature Immunology**, and **Nature Metabolism**, et al. <br/>
 
 During my student career, I have served as a reviewer for **Heliyon** and **Annals of Palliative Medicine**. I have published 6 papers, primarily focusing on **Immunology**, **Metabolism**, and **Bioinformatics**. For example, my work has been published in **[Development Cell](https://www.journals.elsevier.com/developmental-cell)** and **[Journal of Diabetes Research](https://www.hindawi.com/journals/jdr/)**.  
- You can view my publications and citations on [Google Scholar](https://scholar.google.com/citations?user=wkBkJnsAAAAJ) <a href='https://scholar.google.com/citations?user=wkBkJnsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.<br/>
+ You can view my publications and citations on [Google Scholar](https://scholar.google.com/citations?user=wkBkJnsAAAAJ) <a href='https://scholar.google.com/citations?user=wkBkJnsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+
+
+
+
 
 <br>
 <br>
