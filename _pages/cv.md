@@ -15,7 +15,7 @@ Education
 
 Academic Summary
 ======
-* 6 Paper (2 First), Total IF= 23.1, Cite= 86
+* 6 Paper (2 First), Total IF= 23.1, Cite= 57
 
 Academic Activities
 ======
@@ -31,30 +31,31 @@ Research Interests
 Skills
 ======
 * Bioinformatics (Linux, R, Python)
-  * Bulk RNA-seq
-  * Bulk ATAC-seq
-  * Single Cell RNA-seq
-  * Single Cell ATAC-seq
-  * Spatial Transcriptomics
-* Flow Cytometry
+  * [Bulk RNA-seq](https://zengminup.github.io/skills/bulk-rna-seq)
+  * [Bulk ATAC-seq](https://zengminup.github.io/skills/bulk-atac-seq)
+  * [Single Cell RNA-seq](https://zengminup.github.io/skills/sc-rna-seq)
+  * [Single Cell ATAC-seq](https://zengminup.github.io/posts/blog-sc-atac-seq/)
+  * [Spatial Transcriptomics](https://zengminup.github.io/posts/blog-spatial-transcriptomics/)  
+* [Flow Cytometry](https://zengminup.github.io/skills/Tissue-Flow-Cytometry)
   * Gut Lamina Propria Lymphocytes (LPL)
   * Gut Intraepithelial Lymphocytes (IEL)
   * Skin Lymphocytes
   * Liver Lymphocytes
-  * Ohter immune organs (Lymph nodes, Spleen, et al.)
-* Classic Biochemical Experiments
+  * Other immune organs (Lymph nodes, Spleen, et al.)  
+* [Classic Biochemical Experiments](https://zengminup.github.io/skills/Western_Blot)
   * PCR for genotyping
   * qPCR for mRNA expression
   * Western Blot for protein expression
-  * Paraffin-embedded tissue sections
-* Bacteria Culture and infection
+  * Paraffin-embedded tissue sections  
+* [Bacteria Culture and Infection](https://zengminup.github.io/posts/2015-08-14-blog-post-6/)
   * *Citrobacter freundii*
-  * *Salmonella Typhimurium*
-* Animal Experiment
+  * *Salmonella Typhimurium*  
+* [Animal Experiment](https://zengminup.github.io/skills/Genotyping)
   * Transgenic mouse management (Cre-flox, knockout, knockin, Report, fate-mapping)
-  * Intestine Disease Model (DSS, AOM-DSS, Bacterial infection)
-  * Skin inflammation Model 
-  * Metabolism Disease Model (Diabetes, Obesity)
+  * Intestine Disease Model DSS, AOM-DSS, Bacterial infection
+  * Skin Inflammation Model
+  * Metabolism Disease Model(Diabetes, Obesity)
+
 
 
 Publications
