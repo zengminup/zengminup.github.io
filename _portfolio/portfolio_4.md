@@ -6,7 +6,7 @@ collection: portfolio
 ---
 
 ## Scientific Question
-In healthy individuals, the majority of effector cutaneous ILCs are ILC2s. How and when do the amounts of ILC2s and ILC3s change during disease progression, and how do the master regulators Gata3 and Rortt regulate cell fate and function of ILC2s and ILC3s?
+In healthy individuals, the majority of effector cutaneous ILCs are ILC2s. How and when do the amounts of ILC2s and ILC3s change during disease progression, and how do the master regulators Gata3 and RORγt regulate cell fate and function of ILC2s and ILC3s?
 
 ## Background
 # ILCs Development
