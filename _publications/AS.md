@@ -2,7 +2,7 @@
 title: "Atherosclerosis: Recent Advances, Emerging Insights, and Future Challenges"
 collection: publications
 permalink: /publication/AS
-excerpt: 'This paper explores the pathogenesis of atherosclerosis (AS) by examining lipid metabolism, inflammation, and advancements in animal models, aiming to inform the development of more effective anti-atherosclerotic therapies.'
+excerpt: ''
 date: 2023-04-08
 venue: 'Unpublished'
 slidesurl: #
