@@ -1,7 +1,7 @@
 ---
 title: "Metabolism"
 excerpt: "Diabetes, obesity and ILCs/T Helper Metabolism <br/> <img src='/images/metabolism/flowchart.png'>"
-date: #
+date: 2023-11-24
 collection: portfolio
 ---
 
