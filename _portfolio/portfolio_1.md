@@ -13,8 +13,8 @@ What are the metabolic processes and mechanisms involved in diabetes, obesity, a
 
 The research paradigm has shifted from organism-level metabolic analysis to single-cell resolution. With the advent of high-throughput sequencing, particularly single-cell RNA-seq, researchers can now dissect the metabolic and transcriptional profiles of specific immune and non-immune cells in health and disease. This enables targeted metabolic interventions in conditions like diabetes, obesity, and colitis.
 
-> While I am not a co-author, these two landmark papers on ILC metabolism were published by our lab, offering important insights into the metabolic regulation of immune responses:  
-> (*Nat Metab. 2022 Dec;4(12):1650-1659*, *Nat Metab. 2023 Nov;5(11):1953-1968*)
+While I am not a co-author, these two landmark papers on ILC metabolism were published by our lab, offering important insights into the metabolic regulation of immune responses:  <br/>
+(*Nat Metab. 2022 Dec;4(12):1650-1659*, *Nat Metab. 2023 Nov;5(11):1953-1968*)
 
 
 ### PD-1 Signaling and ILC3 Activation  
@@ -85,16 +85,16 @@ Innate lymphoid cells (ILCs) are key regulators of mucosal immunity and tissue r
 <img src='/images/metabolism/criteria.jpg'><br/><br/>
 
 **Mechanistic insights from bioinformatics:**  
-- **Result 1:** Key pathway enrichment and drug-target interaction map.  
+**Result 1:** Key pathway enrichment and drug-target interaction map.  
   <img src='/images/metabolism/mechanism1.jpg'><br/><br/>
 
-- **Result 2:** Differential expression profile of metabolic and inflammatory genes under drug treatment.  
+**Result 2:** Differential expression profile of metabolic and inflammatory genes under drug treatment.  
   <img src='/images/metabolism/mechanism2.jpg'><br/><br/>
 
-- **Result 3:** Drug-gene-pathway regulatory network integrating multi-omics data.  
+**Result 3:** Drug-gene-pathway regulatory network integrating multi-omics data.  
   <img src='/images/metabolism/mechanism3.jpg'><br/><br/>
 
-- **Result 4:** Molecular docking and interaction prediction of candidate drugs with metabolic targets.  
+**Result 4:** Molecular docking and interaction prediction of candidate drugs with metabolic targets.  
   <img src='/images/metabolism/mechanism4.jpg'><br/><br/>
 
 **Integrated Summary Flowchart**  
@@ -108,19 +108,19 @@ Innate lymphoid cells (ILCs) are key regulators of mucosal immunity and tissue r
 <img src='/images/metabolism/flowchart.png'><br/><br/>
 
 **SGD Effects on Diabetic Phenotypes:**  
-- **SGD 1:** Blood glucose levels under SGD treatment in diabetic mice.  
+**SGD 1:** Blood glucose levels under SGD treatment in diabetic mice.  
   <img src='/images/metabolism/SGD1.jpg'><br/><br/>
 
-- **SGD 2:** Insulin sensitivity assessment after treatment.  
+**SGD 2:** Insulin sensitivity assessment after treatment.  
   <img src='/images/metabolism/SGD2.jpg'><br/><br/>
 
-- **SGD 3:** Histological analysis of liver and adipose tissues.  
+**SGD 3:** Histological analysis of liver and adipose tissues.  
   <img src='/images/metabolism/SGD3.jpg'><br/><br/>
 
-- **SGD 4:** Inflammatory cytokine expression in treated vs. control groups.  
+**SGD 4:** Inflammatory cytokine expression in treated vs. control groups.  
   <img src='/images/metabolism/SGD4.jpg'><br/><br/>
 
-- **SGD 5:** Comparative metabolic pathway activation by SGD.  
+**SGD 5:** Comparative metabolic pathway activation by SGD.  
   <img src='/images/metabolism/SGD5.jpg'><br/><br/>
 
 ---
