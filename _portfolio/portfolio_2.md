@@ -1,7 +1,7 @@
 ---
 title: "Bioinformatics"
 excerpt: "Bioinformatics <br/><img src='/images/Bioinformatics.png'>"
-date: #
+date:  2023-05-08
 collection: portfolio
 ---
 
