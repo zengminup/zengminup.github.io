@@ -1,7 +1,7 @@
 ---
 title: "Bioinformatics"
 excerpt: "Bioinformatics <br/><img src='/images/Bioinformatics.png'>"
-date: 2024-11-24
+date: #
 collection: portfolio
 ---
 
@@ -12,6 +12,66 @@ Single-cell transcriptomics allows us to capture the diversity of gene expressio
 <br/>
 On the other hand, ATAC-seq provides insights into chromatin accessibility, shedding light on the regulatory mechanisms that govern gene expression. Changes in chromatin accessibility are key drivers of cellular function, particularly in immune cell activation and metabolic regulation. The dynamic changes in chromatin structure serve as the foundation for determining cell behavior. By combining these technologies, we can better understand immune cell differentiation, metabolic pathway regulation, and their roles in disease, ultimately contributing to the development of new therapeutic strategies.
 <br/><br/>
+
+# Bioinformatics and Inflammatory Bowel Disease 
+Scientific Question: How do genetic, epigenetic, and microbiome-associated factors interact to influence the immune response in the development and progression of Inflammatory Bowel Disease, and can bioinformatics approaches identify novel biomarkers for personalized treatment strategies and ILCs?
+Backgroud: Inflammatory Bowel Disease (IBD), which includes Crohn's disease and ulcerative colitis, is a group of chronic inflammatory conditions of the gastrointestinal tract. The pathogenesis of IBD is complex, involving interactions between genetic susceptibility, environmental factors, and the gut microbiome. Despite extensive research, the precise molecular mechanisms remain poorly understood. Advances in bioinformatics, particularly in the analysis of high-dimensional omics data (genomics, transcriptomics, metagenomics, and proteomics), have opened new avenues to understand the underlying molecular causes of IBD. Techniques such as single-cell RNA sequencing, whole-genome sequencing, and microbiome analysis enable the identification of specific biomarkers, cellular changes, and microbial dysbiosis associated with IBD. Bioinformatics tools also allow for the integration of multi-omics datasets, providing a more comprehensive view of how genetic, epigenetic, and environmental factors converge to promote inflammation and disease progression.
+**Il18 Tissue expression (RNA)** <img src="/images/Bolg-Il18/il18-2.jpg"><br/><br/>
+**Il18 Tissue expression (Protein)** <img src="/images/Bolg-Il18/il18-3.jpg"><br/><br/>
+**Il18 Normal Human Intestine expression** <img src="/images/Bolg-Il18/il18-4.jpg"><br/><br/>
+**Il18 and Il18r expression for human intestine single cell rna-seq** <img src="/images/Bolg-Il18/il18-5.jpg"><br/><br/>
+**Il18 and Il18r expression for human intestine single cell rna-seq, GSE124880, Mice, CD45+ Immune Cell in SiLP and PP, Immunity** <img src="/images/Bolg-Il18/il18-6.jpg"><br/> <img src="/images/Bolg-Il18/il18-7.jpg"><br/><br/>
+**Il18 and Il18r expression for Epithelium** <img src="/images/Bolg-Il18/il18-8.jpg"><br/><br/>
+**Il18 and Il18r expression for IEL** <img src="/images/Bolg-Il18/il18-9.png"><br/><br/>
+**ATAC-seq GSE116093 IGV**<br/><img src="/images/GSE116093-IGV.png"><br/><br/>
+**Il18 DO and Il18 D14, Spatial transcriptomics** <img src="/images/IL18-D0.png"> <img src="/images/IL18-D14.png"><br/><br/>
+**ILC3 DO and D14, Spatial transcriptomics** <img src="/images/ILC3-D0.png"> <img src="/images/ILC3-D14.png"><br/><br/>
+**ST IL18** <br/> <img src="/images/SCP2771/ST.png"><br/><br/>
+**ST IL18_2** <br/> <img src="/images/SCP2771/IL18_2.png"><br/><br/>
+**Spatial_Clustering** <img src="/images/blog_38569542/Spatial_Clustering.png"><br/><br/>
+
+<br/>
+Different time point for DSS (IBD), data from our own sequence.
+**Proportion IE and LP**<br/><img src="/images/DSS_new/umap.png"><br/><br/>
+**SC ATAC-seq UMAP** <br/> <img src="/images/GSE242466/umap.png"><br/><br/>
+**SC ATAC-seq UMAP il8bpko**<br/><img src="/images/Il18bp/umap2.png"><br/><br/>
+
+
+
+
+# Bioinformatics and Skin ILCs
+Scientific Question: How RORγt and Gata3 regulate Skin ILC2s<br/><br/>
+Backgroud: Innate lymphoid cells (ILCs) are tissue-resident lymphocytes that lack rearranged antigen receptors. Cutaneous ILCs, mainly ILC2s, are essential for sustaining tissue equilibrium, contributing to physiological and pathological roles. Here, this review explores the characteristics of cutaneous ILCs in different conditions. This review highlights the role of skin ILCs in maintaining tissue homeostasis by regulating microbiome balance. It examines how their dysfunction can lead to inflammatory skin diseases like atopic dermatitis, psoriasis, and melanoma. ILC-related factors contribute to physiological functions and their implications in various pathological conditions, potentially highlighting key areas for future research. 
+Dev Cell. 2024 Jul 22;59(14):1809-1823.e6<br/>
+**Graphical Abstract**<br/><img src='/images/developmental-cell-abstract.png'><br/><br/>
+**ILCs-ATAC**<br/><img src='/images/Bioinformatics/skin-ATACseq.jpg'><br/><br/>
+**ILCs-ATAC2**<br/><img src='/images/Bioinformatics/skin-ATACseq2.jpg'><br/><br/>
+**ILCs-scRNA-seq**<br/><img src='/images/Bioinformatics/skin-scseq.jpg'><br/><br/>
+
+# Tumor Immunology and Single-Cell Analysis
+
+Tumor immunology explores how the immune system interacts with cancer cells, aiming to understand mechanisms of immune surveillance, tumor escape, and therapeutic resistance. The tumor microenvironment (TME) is highly heterogeneous, composed of tumor cells, immune cells, stromal cells, and the extracellular matrix. This complexity influences tumor progression and the efficacy of immunotherapies.<br/>
+
+The advent of **single-cell RNA sequencing (scRNA-seq)** has transformed our ability to investigate the cellular composition and functional states within the TME at high resolution. Unlike bulk RNA-seq, scRNA-seq enables the analysis of gene expression at the individual cell level, allowing researchers to identify:<br/>
+
+Rare and functionally distinct immune cell subpopulations.<br/>
+Cellular states associated with activation, exhaustion, or suppression.<br/>
+Lineage relationships and differentiation trajectories of immune cells.<br/>
+
+Single-cell approaches have revealed critical insights into:
+
+The heterogeneity of **tumor-infiltrating lymphocytes (TILs)**, including exhausted CD8⁺ T cells, regulatory T cells (Tregs), and memory subsets.<br/>
+The roles of **innate immune cells**, such as tumor-associated macrophages (TAMs), dendritic cells, neutrophils, and innate lymphoid cells (ILCs), in modulating tumor immunity.<br/>
+Changes in the immune landscape in response to **immune checkpoint blockade**, **CAR-T therapies**, and other forms of immunotherapy.<br/>
+
+Combining single-cell transcriptomics with **TCR/BCR sequencing**, **epigenomics**, and **spatial transcriptomics** provides a comprehensive view of immune dynamics in tumors. Bioinformatics tools enable integration of these datasets to identify novel **biomarkers**, **immune evasion mechanisms**, and **therapeutic targets**.<br/>
+
+Overall, single-cell technologies are driving a deeper understanding of tumor–immune interactions and are crucial for the advancement of **personalized cancer immunotherapy**.<br/>
+
+**UMAP for Group MC38**<br/><img src="/images/Bolg-MC3820250306/group.png"><br/>
+**UMAP 4T1** <br/><img src="/images/MC38/UMAP2.png"><br/><br/>
+
+
 
 # Bioinformatics and COVID-19
 Scientific Question: Exploring the material basis and therapeutic mechanisms of natural drugs through bioinformatics.<br/><br/>
@@ -39,33 +99,8 @@ Modernization of Traditional Chinese Medicine and Materia Medica-World Science a
 **Flow Chart**<img src="/images/Bioinformatics/metabolism-flow.png"><br/><br/>
 **molecule Docking**<img src="/images/Bioinformatics/molecule-docking3.jpg"><br/><br/>
 
-# Bioinformatics and Skin ILCs
-Scientific Question: How RORγt and Gata3 regulate Skin ILC2s<br/><br/>
-Backgroud: Innate lymphoid cells (ILCs) are tissue-resident lymphocytes that lack rearranged antigen receptors. Cutaneous ILCs, mainly ILC2s, are essential for sustaining tissue equilibrium, contributing to physiological and pathological roles. Here, this review explores the characteristics of cutaneous ILCs in different conditions. This review highlights the role of skin ILCs in maintaining tissue homeostasis by regulating microbiome balance. It examines how their dysfunction can lead to inflammatory skin diseases like atopic dermatitis, psoriasis, and melanoma. ILC-related factors contribute to physiological functions and their implications in various pathological conditions, potentially highlighting key areas for future research. 
-Dev Cell. 2024 Jul 22;59(14):1809-1823.e6<br/>
-**Graphical Abstract**<br/><img src='/images/developmental-cell-abstract.png'><br/><br/>
-**ILCs-ATAC**<br/><img src='/images/Bioinformatics/skin-ATACseq.jpg'><br/><br/>
-**ILCs-ATAC2**<br/><img src='/images/Bioinformatics/skin-ATACseq2.jpg'><br/><br/>
-**ILCs-scRNA**<br/><img src='/images/Bioinformatics/skin-scseq.jpg'><br/><br/>
 
-# Bioinformatics and Inflammatory Bowel Disease 
-Scientific Question: How do genetic, epigenetic, and microbiome-associated factors interact to influence the immune response in the development and progression of Inflammatory Bowel Disease, and can bioinformatics approaches identify novel biomarkers for personalized treatment strategies and ILCs?
-Backgroud: Inflammatory Bowel Disease (IBD), which includes Crohn's disease and ulcerative colitis, is a group of chronic inflammatory conditions of the gastrointestinal tract. The pathogenesis of IBD is complex, involving interactions between genetic susceptibility, environmental factors, and the gut microbiome. Despite extensive research, the precise molecular mechanisms remain poorly understood. Advances in bioinformatics, particularly in the analysis of high-dimensional omics data (genomics, transcriptomics, metagenomics, and proteomics), have opened new avenues to understand the underlying molecular causes of IBD. Techniques such as single-cell RNA sequencing, whole-genome sequencing, and microbiome analysis enable the identification of specific biomarkers, cellular changes, and microbial dysbiosis associated with IBD. Bioinformatics tools also allow for the integration of multi-omics datasets, providing a more comprehensive view of how genetic, epigenetic, and environmental factors converge to promote inflammation and disease progression.
-**Il18 Tissue expression (RNA)** <img src="/images/Bolg-Il18/il18-2.jpg"><br/><br/>
-**Il18 Tissue expression (Protein)** <img src="/images/Bolg-Il18/il18-3.jpg"><br/><br/>
-**Il18 Normal Human Intestine expression** <img src="/images/Bolg-Il18/il18-4.jpg"><br/><br/>
-**Il18 and Il18r expression for human intestine single cell rna-seq** <img src="/images/Bolg-Il18/il18-5.jpg"><br/><br/>
-**Il18 and Il18r expression for human intestine single cell rna-seq, GSE124880, Mice, CD45+ Immune Cell in SiLP and PP, Immunity** <img src="/images/Bolg-Il18/il18-6.jpg"><br/> <img src="/images/Bolg-Il18/il18-7.jpg"><br/><br/>
-**Il18 and Il18r expression for Epithelium** <img src="/images/Bolg-Il18/il18-8.jpg"><br/><br/>
-**Il18 and Il18r expression for IEL** <img src="/images/Bolg-Il18/il18-9.jpg"><br/><br/>
-**ATAC-seq GSE116093 IGV**<br/><img src="/images/GSE116093-IGV.png"><br/><br/>
-**Il18 DO and Il18 D14, Spatial transcriptomics** <img src="/images/IL18-D0.png"> <img src="/images/IL18-D14.png"><br/><br/>
-**ILC3 DO and D14, Spatial transcriptomics** <img src="/images/ILC3-D0.png"> <img src="/images/ILC3-D14.png"><br/><br/>
 
-<br/>
-Different time point for DSS (IBD), data from our own sequence.
-**DSS result** <img src="/images/Bioinformatics/DSS.jpg"><br/><br/>
-**DSS single cell RNA-seq** from mcie colon for Lamina propria and epithelium, almost 300,000 cells. <br/><img src="/images/Bioinformatics/DSS-sc.jpg"><br/>
 
 
 
