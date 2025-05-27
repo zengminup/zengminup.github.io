@@ -114,13 +114,13 @@ Innate lymphoid cells (ILCs) are key regulators of mucosal immunity and tissue r
 **SGD 2:** Insulin sensitivity assessment after treatment.  
   <img src='/images/metabolism/SGD2.jpg'><br/><br/>
 
-**SGD 3:** Histological analysis of liver and adipose tissues.  
+**SGD 3:** Profiling of Glycolytic and Gluconeogenic Enzymes.  
   <img src='/images/metabolism/SGD3.jpg'><br/><br/>
 
 **SGD 4:** Inflammatory cytokine expression in treated vs. control groups.  
   <img src='/images/metabolism/SGD4.jpg'><br/><br/>
 
-**SGD 5:** Comparative metabolic pathway activation by SGD.  
+**SGD 5:** H&E Histological Analysis of Liver and Pancreas.  
   <img src='/images/metabolism/SGD5.jpg'><br/><br/>
 
 ---
