@@ -1,12 +1,11 @@
 ---
 title: "Interleukin-18 Mediates ILC3-to-ILC1 Transdifferentiation Driving Chronic Intestinal Inflammation in Inflammatory Bowel Disease"
-excerpt: "IL-18 promotes CCR6⁻ ILC3-to-ILC1 transdifferentiation via IL18R1 signaling, driving chronic intestinal inflammation in IBD.<br/><img src='/images/IL18_all/F22.png' style="width:600px; height:550px;">"
+excerpt: "IL-18 promotes ILC3 to ILC1 transdifferentiation via IL18R1 signaling, driving chronic intestinal inflammation in IBD <br/> <img src='/images/IL18_all/F22.png'>"
 date: 2023-02-05
 collection: portfolio
 ---
 
 ## Scientific Question  
-<br/>
 **How Does IL-18 Regulate Intestinal Homeostasis?**<br/><br/>
 
 Interleukin-18 (IL-18) is a pro-inflammatory cytokine significantly upregulated in inflammatory bowel disease (IBD) and implicated in modulating innate lymphoid cell (ILC) phenotypes within the intestinal mucosa. Here, through comprehensive analyses integrating spatial transcriptomics, bulk and single-cell RNA sequencing, and functional murine models, IL-18 is demonstrated to facilitate the plasticity of CCR6⁻ ILC3s towards an ILC1 phenotype characterized by increased IL-18 receptor 1 (IL18R1) expression. IL-18 deficiency does not alter acute colitis severity but attenuates pathology during repeated dextran sulfate sodium (DSS)-induced colitis, underscoring its role in sustaining chronic inflammation. Mechanistically, IL-18 preferentially acts on IL-22 fate-mapping negative ILC3 subsets to promote transdifferentiation without impairing IL-22 production. These findings reveal a critical IL-18/IL18R1 signaling axis governing ILC plasticity that contributes to the pathogenesis of chronic intestinal inflammation in IBD.
