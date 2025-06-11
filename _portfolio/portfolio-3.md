@@ -1,6 +1,6 @@
 ---
-title: "How IL18 promote Instestine Homeostasis"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/LPL-umap.png'>"
+title: "Interleukin-18 Mediates ILC3-to-ILC1 Transdifferentiation Driving Chronic Intestinal Inflammation in Inflammatory Bowel Disease"
+excerpt: "IL-18 promotes CCR6⁻ ILC3-to-ILC1 transdifferentiation via IL18R1 signaling, driving chronic intestinal inflammation in IBD.<br/><img src='/images/IL18_all/F22.png' style="width:600px; height:550px;">"
 date: 2023-02-05
 collection: portfolio
 ---
@@ -8,6 +8,8 @@ collection: portfolio
 ## Scientific Question  
 <br/>
 **How Does IL-18 Regulate Intestinal Homeostasis?**<br/><br/>
+
+Interleukin-18 (IL-18) is a pro-inflammatory cytokine significantly upregulated in inflammatory bowel disease (IBD) and implicated in modulating innate lymphoid cell (ILC) phenotypes within the intestinal mucosa. Here, through comprehensive analyses integrating spatial transcriptomics, bulk and single-cell RNA sequencing, and functional murine models, IL-18 is demonstrated to facilitate the plasticity of CCR6⁻ ILC3s towards an ILC1 phenotype characterized by increased IL-18 receptor 1 (IL18R1) expression. IL-18 deficiency does not alter acute colitis severity but attenuates pathology during repeated dextran sulfate sodium (DSS)-induced colitis, underscoring its role in sustaining chronic inflammation. Mechanistically, IL-18 preferentially acts on IL-22 fate-mapping negative ILC3 subsets to promote transdifferentiation without impairing IL-22 production. These findings reveal a critical IL-18/IL18R1 signaling axis governing ILC plasticity that contributes to the pathogenesis of chronic intestinal inflammation in IBD.
 
 
 ## Background
@@ -145,8 +147,139 @@ Analysis of a comprehensive single-cell RNA sequencing meta-dataset (scIBD, *Gen
 
 The integrative single-cell transcriptomic analysis leveraging the scIBD meta-dataset, encompassing over one million cells from twelve independent studies of human intestinal tissues, delineates the cellular distribution of *IL18* and its receptor *IL18R1* with unprecedented resolution. Notably, *IL18R1* expression is highly enriched in innate lymphoid cells (ILCs), underscoring their prominent capacity to sense and respond to IL-18 within the intestinal microenvironment. This cell-type-specific receptor localization suggests that ILCs are key mediators of IL-18–driven immune modulation in gut homeostasis and inflammation. The spatial and quantitative insights from this large-scale integrative dataset provide a critical framework for understanding IL-18 signaling dynamics in the human intestine, with implications for inflammatory bowel disease pathogenesis and therapy.
 
-**Cell-Type-Specific Expression Patterns of IL18 and IL18R1 in the Human Intestine Identified by Integrative Single-Cell RNA Sequencing Analysis**
+**Cell-Type-Specific Expression Patterns of IL18 and IL18R1 in the Human Intestine Identified by Integrative Single-Cell RNA Sequencing Analysis**<br/>
 <img src="/images/IL18_all/F10.png"><br/><br/>
 
 
-### 
+### Independent Single-Cell RNA-Seq Analyses Reveal Consistent Cell-Type-Specific Expression Patterns of IL18 and IL18R1 in the Intestine
+Across all datasets, *Il18* expression was predominantly localized to intestinal epithelial and myeloid lineages, reflecting their central roles as innate cytokine sources in mucosal immunity. In contrast, *Il18r1* exhibited specific and consistent enrichment in group 3 innate lymphoid cells (ILC3s), underscoring their capacity to sense IL-18 signaling cues. The reproducibility of these findings across species (human and mouse), tissue compartments (epithelial vs. immune), and platforms supports a conserved IL-18–IL18R1 axis that orchestrates communication between epithelial barriers and innate lymphoid effectors. This cell-type specificity provides critical insight into the spatial and functional architecture of IL-18 signaling in intestinal immune homeostasis.<br/><br/>
+**Distinct Single-Cell RNA-Seq Datasets Consistently Identify Epithelial and Myeloid Cells as IL18 Sources and ILC3s as Primary IL18R1-Expressing Cells in the Intestine**<br/>
+<img src="/images/IL18_all/F11.png"><br/><br/>
+
+
+### MERFISH-Based Spatial Transcriptomics Reveals Epithelial-Derived Il18 and Localized Il18r1 Expression in Intestinal ILC3s
+High-resolution spatial transcriptomic profiling using MERFISH technology enabled precise mapping of *Il18* and *Il18r1* expression across intact intestinal tissue architecture. The analysis revealed that *Il18* is predominantly expressed by intestinal epithelial cells, aligning with their established role as a frontline source of cytokines that orchestrate mucosal immunity. In contrast, *Il18r1* was found to be selectively expressed by discrete populations of group 3 innate lymphoid cells (ILC3s), which are spatially localized near the epithelial compartment.<br/>
+
+This spatial co-localization supports a model in which epithelial-derived IL-18 signals directly to nearby ILC3s via IL18R1, reinforcing the concept of barrier-to-immune cell communication. These findings not only validate cell-type specificity observed in single-cell datasets but also provide spatial context critical for understanding IL-18–mediated immune regulation within the intestinal microenvironment.<br/>
+
+
+**Spatial Mapping of Il18 and Il18r1 in the Intestine**<br/>
+<img src="/images/IL18_all/F12.png"><br/><br/>
+
+**scRNA-Seq Confirms Il18–Il18r1 Axis Between Epithelium and ILC3s**<br/>
+<img src="/images/IL18_all/F13.png"><br/><br/>
+
+### Flow Cytometry Confirms Preferential IL-18R1 Protein Expression in Intestinal ILC3s
+Flow cytometric analysis was performed to validate IL-18 and IL-18R1 protein expression across major intestinal cell populations. Gating strategies included intraepithelial lymphocytes (IELs), lamina propria (LP) T cells, epithelial cells (IECs), and innate lymphoid cell subsets. The results revealed that IL-18R1 protein is robustly expressed by ILC3s, consistent with transcriptomic findings. In contrast, IL-18R1 was low or undetectable in IECs, and IELs and LP T cells exhibited significantly lower IL-18R1 expression compared to ILCs. These findings support a model in which ILC3s act as key IL-18–responsive populations in the gut, receiving cues from IL-18–producing epithelial or myeloid cells.<br/>
+
+**IL-18R1 Protein Is Preferentially Expressed by Intestinal ILC3s**<br/>
+<img src="/images/IL18_all/F14.png"><br/><br/>
+<img src="/images/IL18_all/F15.png"><br/><br/>
+
+
+### Spatial Transcriptomics Identifies an Epithelial IL-18 to ILC3 IL-18R1 Signaling Axis
+Spatial transcriptomic analysis delineates a cell–cell communication pathway in the intestinal microenvironment, whereby *Il18* expression is concentrated within epithelial cells and signals to *Il18r1*-expressing group 3 innate lymphoid cells (ILC3s). This spatially resolved ligand–receptor pairing highlights a direct epithelial-to-immune cell crosstalk mechanism essential for mucosal immune regulation and intestinal homeostasis.<br/>
+**Epithelial–ILC3 IL-18–IL18R1 Signaling Axis Identified by Spatial Transcriptomics**<br/>
+<img src="/images/IL18_all/F16.png"><br/><br/>
+
+### Targeted Il18r1 Deletion in ILC3s Attenuates Recurrent Intestinal Inflammation
+To functionally interrogate the role of IL-18 signaling in ILC3s during intestinal inflammation, mice with ILC3-specific deletion of *Il18r1* were subjected to a two-round DSS-induced colitis model. No significant differences in body weight loss were observed between knockout and control mice during the first acute phase. However, upon secondary DSS challenge, *Il18r1* deletion in ILC3s resulted in improved clinical outcomes, as evidenced by attenuated weight loss and a trend toward reduced inflammation. These findings indicate that IL-18 signaling in ILC3s contributes specifically to the exacerbation of inflammation during recurrent intestinal injury, and its disruption confers protection in chronic inflammatory settings.<br/>
+
+**ILC3-Specific Il18r1 Deletion Protects Against Secondary Colitis**<br/><br/>
+<img src="/images/IL18_all/F17.png"><br/><br/>
+
+### ILC3-Derived IL-22 Production Is Maintained in the Absence of IL-18 Signaling
+Previous studies have suggested that IL-18 and IL-22 may engage in reciprocal regulatory loops, particularly under inflammatory conditions (*Immunity*, 2015). To directly assess whether IL-18 is required for IL-22 production in ILC3s, sorted small intestinal lamina propria (SiLP) ILC3s from WT and *Il18^-/-* mice were stimulated ex vivo with IL-23 (1 ng/mL) and IL-1β (0.5 ng/mL) for 3 hours. Flow cytometric analysis demonstrated that IL-22 production levels were comparable between WT and IL-18-deficient ILC3s. These findings indicate that IL-22 production by ILC3s is independent of IL-18 signaling in the context of acute cytokine stimulation, suggesting that IL-18 is dispensable for this effector function under homeostatic or early inflammatory conditions.<br/>
+
+**IL-18 Deficiency Does Not Impair IL-22 Production by ILC3s**<br/><br/>
+<img src="/images/IL18_all/F18.png"><br/><br/>
+
+
+### IL-18 Selectively Regulates Plasticity of IL-22 Fate-Mapping Negative ILC3s
+To delineate the role of IL-18 in regulating ILC3 plasticity, IL-22 fate-mapping (IL-22^FM) mice were employed to track the lineage history of IL-22-producing cells. Comparative analysis revealed that IL-18 deficiency predominantly affected the frequency and phenotype of IL-22^FM⁻ ILC3s, suggesting that IL-18 exerts its regulatory function on ILC3s that have not previously expressed IL-22. In contrast, IL-22^FM⁺ ILC3s displayed stable identities and showed limited evidence of transdifferentiation into ILC1-like cells, even in the absence of IL-18 signaling.
+
+Further, adoptive transfer experiments were conducted using IL-22^FM⁺ ILC3s and wild-type bone marrow into GATA3^fl/fl Vav-Cre recipient mice (which lack endogenous ILCs). The transferred IL-22^FM⁺ ILC3s failed to give rise to ILC1s, as indicated by the lack of fate-mapped ILC1s in the gut, despite the presence of RORγt lineage labeling. These findings indicate that IL-18 promotes type 1 conversion specifically from IL-22^FM⁻ ILC3s, while IL-22^FM⁺ ILC3s represent a committed, non-plastic subset.
+
+**IL-18 Acts on IL-22^FM⁻ ILC3s to Drive Lineage Plasticity**
+<img src="/images/IL18_all/F19.png"><br/><br/>
+<img src="/images/IL18_all/F20.png"><br/><br/>
+
+
+### IL-18 Deficiency Skews Intestinal ILC Subset Composition
+To evaluate the impact of IL-18 signaling on the composition of innate lymphoid cells (ILCs) in the gut, flow cytometric profiling was performed in *Il18^-/-* mice. Analysis of small intestinal lamina propria (SiLP) and colonic lamina propria (cLP) revealed a marked reduction in NKp46⁺ ILC3s, particularly within the SiLP. Concurrently, a decrease in the frequency of ILC1s was observed in the cLP compartment. These alterations suggest that IL-18 signaling is required to maintain the proper balance of group 1 and group 3 ILC subsets in the intestinal mucosa, potentially by promoting the stability or differentiation of specific lineages.<br/>
+
+**IL-18 Deficiency Reduces NKp46⁺ ILC3s and ILC1s in the Gut**
+<img src="/images/IL18_all/F21.png"><br/><br/>
+
+
+### IL-18 Drives CCR6⁻ ILC3 Transdifferentiation Toward ILC1s via Fate-Mapping and In Vitro Reprogramming
+To specifically examine the plasticity of CCR6⁻ ILC3s under IL-18 regulation, *Rorc^FM* fate-mapping mice were utilized to trace the conversion of ILC3s into ILC1s. In *Il18^-/-* mice, the frequency of RORγt fate-mapping positive (FM⁺) ILC1s was significantly reduced, suggesting impaired lineage conversion from ILC3s in the absence of IL-18 signaling.
+
+Further validation was conducted using sorted CCR6⁻ ILC3s cultured in vitro with OP9 stromal cells and cytokines (IL-7 + IL-2). After 5 days, the addition of IL-18, particularly in combination with IL-12, significantly enhanced the emergence of ILC1-like cells. Notably, stimulation with IL-1β or IL-23 failed to elicit a comparable increase in ILC1s. These results underscore IL-18’s critical role in licensing the transdifferentiation of CCR6⁻ ILC3s into ILC1s, likely by reinforcing type 1 transcriptional programs.
+
+**IL-18 Facilitates CCR6⁻ ILC3 Conversion Into ILC1s**
+<img src="/images/IL18_all/F22.png"><br/><br/>
+
+
+
+### IL-18R1 Expression Is Coupled to NKp46 Acquisition During ILC3-to-ILC1 Lineage Transition
+The upregulation of IL-18R1 marks a critical molecular transition during the plasticity of ILC3s toward an ILC1 phenotype. Analysis of bulk ATAC-seq data (GSE116093) derived from sorted intestinal innate lymphoid cell subsets—including NK cells, ILC1s, ex-ILC3s, CCR6⁻ ILC3s, and CCR6⁺ ILC3s—revealed progressively increased chromatin accessibility at the *Il18r1* locus in line with the acquisition of type 1 characteristics. Accessibility was lowest in CCR6⁺ ILC3s, intermediate in CCR6⁻ ILC3s and ex-ILC3s, and highest in mature ILC1s and NK cells, suggesting a gradual licensing of IL-18 responsiveness during lineage conversion.<br/>
+
+Flow cytometry further confirmed this pattern at the protein level: IL-18R1 expression was lowest in NKp46⁻ ILC3s, moderately expressed in NKp46^int ILC3s, and significantly upregulated in NKp46⁺ ILC3s. Moreover, ex-ILC3s (as determined by RORγt fate-mapping) consistently exhibited higher IL-18R1 levels than steady-state ILC1s. These findings indicate that IL-18 signaling is preferentially activated during transitional stages and may function as a reinforcing cue in the progression from ILC3s to ILC1s.<br/>
+
+**IL-18R1 Upregulation Tracks With NKp46 Expression During ILC3 Plasticity**
+<img src="/images/IL18_all/F22.png"><br/><br/>
+
+
+### Pseudotime Analysis Identifies IL-18R1 as a Transitional Marker in ILC3-to-ILC1 Plasticity During Colitis Progression
+Single-cell pseudotime analysis of intestinal innate lymphoid cells during DSS-induced colitis reveals a transitional trajectory from CCR6⁻ ILC3s toward ILC1s, characterized by dynamic changes in *Il18r1* expression. At steady state, *Il18r1* is highly expressed in ILC3s but markedly lower in mature ILC1s. During the progression of inflammation, particularly in the second round of DSS treatment (R2D0 to R2D7), *Il18r1* expression increases along the pseudotime trajectory, peaking at intermediate transdifferentiation states, before declining as cells adopt an ILC1-like identity.<br/>
+
+This expression pattern suggests that IL-18R1 marks an intermediate state of ILC plasticity and may actively contribute to the fate transition under inflammatory conditions. The transient upregulation of *Il18r1* during ILC3-to-ILC1 conversion underscores the temporal specificity of IL-18 signaling in shaping the intestinal immune landscape.<br/>
+**Transient Induction of IL-18R1 During Inflammatory ILC3-to-ILC1 Transition**
+<img src="/images/IL18_all/F23.png"><br/><br/>
+
+### IL-18 Deficiency Modulates ILC-Related Transcriptional Programs in Skin: Implications for Gut ILC Plasticity
+Combined bulk and single-cell RNA sequencing analyses of skin-resident ILCs from *Il18^-/-* and wild-type mice uncover significant alterations in transcription factors associated with ILC subset specification and functional plasticity. Notably, *STAT1*, *STAT3*, and *NF-κB* pathway components—key regulators in the transition from ILC3 to ILC1 phenotypes—exhibit dysregulated expression in the absence of IL-18. These data suggest that IL-18 signaling contributes to maintaining the transcriptional equilibrium necessary for ILC stability and fate decisions.<br/>
+
+Given the shared transcriptional architecture between skin and intestinal ILCs, these findings serve as a prelude to targeted manipulation of these transcriptional regulators in the gut. Future studies will investigate how perturbation of *Stat1*, *Stat3*, and *Nfkb1* influences ILC3-to-ILC1 conversion within the inflamed intestinal environment.<br/>
+
+**IL-18 Deficiency Alters Expression of Key Transcription Factors Regulating ILC Fate**
+<img src="/images/IL18_all/F24.png"><br/><br/>
+
+
+### scATAC-seq Reveals IL-18BP-Dependent Transcriptional Regulation in Intestinal Immune Cells
+Single-cell chromatin accessibility profiling (scATAC-seq) was performed on intestinal immune cells isolated from *Il18bp^-/-* and wild-type mice to delineate transcriptional regulators impacted by the absence of IL-18 binding protein (IL-18BP), a natural inhibitor of IL-18 signaling. The analysis revealed significant alterations in the chromatin accessibility of loci encoding transcription factors critical for ILC identity and plasticity, including *Stat1*, *Stat3*, and members of the NF-κB family.<br/>
+
+These findings highlight the role of IL-18BP in modulating the transcriptional landscape of intestinal immune populations, particularly those involved in the ILC3-to-ILC1 transition. Disruption of IL-18BP results in a permissive chromatin state favoring pro-inflammatory gene expression, suggesting that IL-18/IL-18BP signaling axis plays a vital role in shaping ILC fate and function during intestinal inflammation.<br/>
+
+
+**scATAC-seq Reveals TF Accessibility Changes in Il18bp-Deficient Intestinal Immune Cells**
+<img src="/images/IL18_all/F25.png"><br/><br/>
+
+### STAT3 Is Dispensable for IL-18R1 Expression in NCR⁺ ILC3s
+To evaluate whether STAT3 signaling regulates IL-18R1 expression in group 3 innate lymphoid cells (ILC3s), *Stat3^fl/fl* mice were crossed with *Ncr1-Cre* to generate NCR⁺ ILC-specific STAT3-deficient mice. Flow cytometric analysis revealed that the expression of IL-18R1 in NCR⁺ ILC3s from *Ncr1-Cre Stat3^fl/fl* mice was comparable to wild-type controls. These findings suggest that STAT3 is not required for the maintenance of IL-18R1 expression in this subset of ILC3s, indicating that other transcriptional regulators may mediate IL-18R1 expression in the context of NCR⁺ ILC biology.<br/>
+
+**IL-18R1 Expression Is Maintained in STAT3-Deficient NCR⁺ ILC3s**
+<img src="/images/IL18_all/F26.png"><br/><br/>
+
+
+**Research Summary and Future Directions**
+
+**Overview:**  
+This study investigates the multifaceted role of interleukin-18 (IL-18) in intestinal immunity, with a particular focus on its expression dynamics, clinical relevance in inflammatory bowel disease (IBD), and functional implications in innate lymphoid cells (ILCs).  
+
+**Key Findings:**  
+- **Constitutive and Disease-Associated Expression:** IL-18 is highly expressed in the gastrointestinal tract under homeostatic conditions, with spatial and bulk RNA-seq datasets indicating further elevation in IBD, reinforcing its clinical relevance.
+- **Acute Inflammation Response:** In a single-cycle dextran sulfate sodium (DSS)-induced colitis model, IL-18 deficiency did not exacerbate disease severity (e.g., body weight loss, colon shortening), suggesting that IL-18 may not be critical in early-stage colitis.
+- **Chronic and Recurrent Inflammation:** Spatial transcriptomic and bulk analyses in chronic DSS models revealed sustained or elevated IL-18 expression during the recovery phase, implicating IL-18 in chronic or relapsing intestinal inflammation.
+- **Secondary Colitis and Immunoregulation:** In contrast to the acute model, IL-18 deficiency conferred significant protection in secondary DSS-induced colitis, indicating a context-dependent regulatory role of IL-18 in chronic inflammation.
+- **Role in ILC Biology:** IL-18 shapes the phenotypic composition of ILC subsets, particularly by influencing the balance between NKp46⁺ ILC3s and ILC1s. IL-18 signaling promotes ILC3-to-ILC1 transdifferentiation, without affecting IL-22 production or RORγt fate-mapping.
+- **Mechanistic Insights:** Initial observations suggest that the IL-18–IL-18R1 axis preferentially targets IL-22 fate-mapping negative (FM⁻) ILC3s. Preliminary analyses indicate that STAT3 may not regulate IL-18R1 expression in NCR⁺ ILC3s, highlighting the need for further mechanistic studies.
+
+**Future Directions:**  
+- **ILC Profiling in Gut Inflammation:** FACS-purified ILCs from IL-18 knockout models of intestinal inflammation have been collected and are currently awaiting single-cell RNA sequencing to delineate IL-18-dependent transcriptional programs.
+- **Fate-Mapping and Plasticity Analyses:** Ongoing single-cell fate-mapping studies (e.g., RORγt-FM) aim to elucidate the cellular trajectories and plasticity of ILC subsets in the inflamed gut microenvironment.
+- **Cytokine Response Characterization:** Functional experiments evaluating the response of intestinal ILCs to exogenous IL-18 treatment are underway.
+- **Transcriptional Regulation:** Identification and validation of transcription factors that govern IL-18-mediated ILC3-to-ILC1 transdifferentiation remain a high priority, with candidates being screened via scATAC-seq and knockout strategies.
+
+This work advances the understanding of IL-18 as a critical cytokine in intestinal homeostasis and inflammation, with potential implications for IBD pathogenesis and therapeutic targeting.
