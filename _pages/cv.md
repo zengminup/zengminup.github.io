@@ -19,7 +19,7 @@ Education
 
 Academic Summary
 ======
-* Published 6 peer-reviewed articles, including 2 as first author; cumulative impact factor: 23.1; total citations: 66
+* Published 6 peer-reviewed articles, including 2 as first author; cumulative impact factor: 23.1; Total citations: 109 (Google Scholar 69)  
 
 Academic Activities
 ======
