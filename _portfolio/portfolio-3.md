@@ -129,6 +129,8 @@ By integrating time-resolved single-cell data with injury and repair phases, thi
 <img src="/images/IL18_all/F6.png"><br/><br/>
 <img src="/images/IL18_all/F7.png"><br/><br/>
 <img src="/images/IL18_all/F8.png"><br/><br/>
+<img src="/images/IL18_all/F8_2.png"><br/><br/>
+
 
 ### IL-18 Deficiency Ameliorates Secondary DSS-Induced Colitis
 In a model of recurrent intestinal injury induced by repeated DSS administration, Il18-deficient mice exhibited markedly reduced disease severity relative to wild-type controls. This attenuation was demonstrated by diminished weight loss and maintenance of colon length during the secondary inflammatory challenge.<br/>
@@ -140,6 +142,9 @@ These data collectively indicate that IL-18 facilitates inflammation-driven tiss
 
 **IL-18 Deficiency Attenuates Disease Severity During Secondary DSS-Induced Colitis**<br/>
 <img src="/images/IL18_all/F9.png"><br/><br/>
+
+**HE Analysis**<br/>
+<img src="/images/IL18_all/F9_2.png"><br/><br/>
 
 ### Integrative Single-Cell Transcriptomic Analysis Reveals Predominant IL18R1 Expression in Intestinal Innate Lymphoid Cells
 Analysis of a comprehensive single-cell RNA sequencing meta-dataset (scIBD, *Genome Biology*, 2023) comprising 1.14 million cells from 12 human intestinal datasets reveals that *IL18R1* expression is predominantly localized to innate lymphoid cells (ILCs), highlighting their central role as responders to IL-18 signaling within the intestinal immune landscape.
@@ -201,6 +206,8 @@ Further, adoptive transfer experiments were conducted using IL-22^FM⁺ ILC3s an
 
 **IL-18 Acts on IL-22^FM⁻ ILC3s to Drive Lineage Plasticity**
 <img src="/images/IL18_all/F19.png"><br/><br/>
+<img src="/images/IL18_all/F19_2.png"><br/><br/>
+
 <img src="/images/IL18_all/F20.png"><br/><br/>
 
 
@@ -227,7 +234,7 @@ The upregulation of IL-18R1 marks a critical molecular transition during the pla
 Flow cytometry further confirmed this pattern at the protein level: IL-18R1 expression was lowest in NKp46⁻ ILC3s, moderately expressed in NKp46^int ILC3s, and significantly upregulated in NKp46⁺ ILC3s. Moreover, ex-ILC3s (as determined by RORγt fate-mapping) consistently exhibited higher IL-18R1 levels than steady-state ILC1s. These findings indicate that IL-18 signaling is preferentially activated during transitional stages and may function as a reinforcing cue in the progression from ILC3s to ILC1s.<br/>
 
 **IL-18R1 Upregulation Tracks With NKp46 Expression During ILC3 Plasticity**
-<img src="/images/IL18_all/F22.png"><br/><br/>
+<img src="/images/IL18_all/F22_2.png"><br/><br/>
 
 
 ### Pseudotime Analysis Identifies IL-18R1 as a Transitional Marker in ILC3-to-ILC1 Plasticity During Colitis Progression
@@ -263,6 +270,9 @@ To evaluate whether STAT3 signaling regulates IL-18R1 expression in group 3 inna
 
 
 **Research Summary and Future Directions**
+
+<img src="/images/IL18_all/F27.png"><br/><br/>
+
 
 **Overview:**  
 This study investigates the multifaceted role of interleukin-18 (IL-18) in intestinal immunity, with a particular focus on its expression dynamics, clinical relevance in inflammatory bowel disease (IBD), and functional implications in innate lymphoid cells (ILCs).  
