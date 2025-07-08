@@ -53,7 +53,7 @@ Skills
   * Western blotting for protein detection  
   * Paraffin-embedded tissue sectioning and staining  
 * [Bacterial Culture and Infection Models](https://zengminup.github.io/posts/2015-08-14-blog-post-6/)  
-  * *Citrobacter freundii*  
+  * *Citrobacter rodentium*  
   * *Salmonella Typhimurium*  
 * [Animal Models and Experimental Techniques](https://zengminup.github.io/skills/Genotyping)  
   * Transgenic mouse model management (Cre-lox, knockout, knockin, reporter, fate-mapping)  
