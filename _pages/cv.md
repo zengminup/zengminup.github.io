@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-- **M.S. in Systems Biomedicine (Immunology)**, *Peking University (QS World University Ranking #14)*, Beijing, China  
+- **M.S. in Systems Biomedicine (Immunology)**, *Peking University*, Beijing, China  
   GPA: 3.24 / 4.00 (2023 - 2026)
 
 - **B.S. in Pharmacy**, *Hubei University of Chinese Medicine*, Wuhan, China  
