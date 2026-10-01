@@ -9,21 +9,7 @@ collection: portfolio
 <br/>
 What are the metabolic processes and mechanisms involved in diabetes, obesity, and inflammatory bowel disease, particularly with respect to innate lymphocytes?
 
-## ILC Metabolism: From Systemic to Single-Cell Insights  
 
-The research paradigm has shifted from organism-level metabolic analysis to single-cell resolution. With the advent of high-throughput sequencing, particularly single-cell RNA-seq, researchers can now dissect the metabolic and transcriptional profiles of specific immune and non-immune cells in health and disease. This enables targeted metabolic interventions in conditions like diabetes, obesity, and colitis.
-
-While I am not a co-author, these two landmark papers on ILC metabolism were published by our lab, offering important insights into the metabolic regulation of immune responses:  <br/>
-(*Nat Metab. 2022 Dec;4(12):1650-1659*, *Nat Metab. 2023 Nov;5(11):1953-1968*)
-
-
-### PD-1 Signaling and ILC3 Activation  
-**PD-1 signaling facilitates ILC3 activation by modulating fatty acid oxidation.**  
-<img src="/images/metabolism/PD1_ILC3.png"><br/><br/>
-
-### Proline Metabolism and LTi Cell Function  
-**Proline uptake enhances LTi cell activation, promoting intestinal immune homeostasis.**  
-<img src="/images/metabolism/Proline_LTi.png"><br/><br/>
 
 
 ## Background  
@@ -100,28 +86,6 @@ Innate lymphoid cells (ILCs) are key regulators of mucosal immunity and tissue r
 **Integrated Summary Flowchart**  
 <img src='/images/metabolism/mechanism5.jpg'><br/><br/>
 
----
-
-## Experimental Evidence for SGD in the Treatment of Diabetes and Obesity  
-
-**Raw Experimental Flowchart**  
-<img src='/images/metabolism/flowchart.png'><br/><br/>
-
-**SGD Effects on Diabetic Phenotypes:**  
-**SGD 1:** Blood glucose levels under SGD treatment in diabetic mice.  
-  <img src='/images/metabolism/SGD1.jpg'><br/><br/>
-
-**SGD 2:** Insulin sensitivity assessment after treatment.  
-  <img src='/images/metabolism/SGD2.jpg'><br/><br/>
-
-**SGD 3:** Profiling of Glycolytic and Gluconeogenic Enzymes.  
-  <img src='/images/metabolism/SGD3.jpg'><br/><br/>
-
-**SGD 4:** Inflammatory cytokine expression in treated vs. control groups.  
-  <img src='/images/metabolism/SGD4.jpg'><br/><br/>
-
-**SGD 5:** H&E Histological Analysis of Liver and Pancreas.  
-  <img src='/images/metabolism/SGD5.jpg'><br/><br/>
 
 ---
 
