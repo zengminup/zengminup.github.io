@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-- **PhD Candidatein Bioinformatics**, *Joint Center for Computational and Integrative Medicine (CiiM) (Helmholtz Centre for Infection Research (HZI) & Hannover Medical School (MHH))*, Hannover, Germany
+- **PhD Candidatein Bioinformatics**, *Joint Center for Computational and Integrative Medicine (CiiM) (Helmholtz Centre for Infection Research (HZI) & Hannover Medical School (MHH))*, Hannover, Germany  
   2026 – Present
 
 - **M.S. in Systems Biomedicine (Immunology)**, *Peking University*, Beijing, China  
