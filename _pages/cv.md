@@ -11,6 +11,9 @@ redirect_from:
 
 Education
 ======
+- **PhD Candidatein Bioinformatics**, *Joint Center for Computational and Integrative Medicine (CiiM) (Helmholtz Centre for Infection Research (HZI) & Hannover Medical School (MHH))*, Hannover, Germany
+  2026 – Present
+
 - **M.S. in Systems Biomedicine (Immunology)**, *Peking University*, Beijing, China  
   GPA: 3.24 / 4.00 (2023 - 2026)
 
@@ -23,8 +26,8 @@ Academic Summary
 
 Academic Activities
 ======
-* **Reviewer for Heliyon** (Cell Press): Peer-reviewed 1 manuscript; Journal Impact Factor: 4.0  
-* **Reviewer for Annals of Palliative Medicine** (AME Publishing): Peer-reviewed 1 manuscript; Journal Impact Factor: 1.9
+* **Reviewer for *Heliyon*** (Cell Press): Peer-reviewed 1 manuscript; Journal Impact Factor: 4.0  
+* **Reviewer for *Annals of Palliative Medicine*** (AME Publishing): Peer-reviewed 1 manuscript; Journal Impact Factor: 1.9
 
 Research Interests
 ======
