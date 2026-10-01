@@ -16,13 +16,7 @@ On the other hand, ATAC-seq provides insights into chromatin accessibility, shed
 # Bioinformatics and Inflammatory Bowel Disease 
 Scientific Question: How do genetic, epigenetic, and microbiome-associated factors interact to influence the immune response in the development and progression of Inflammatory Bowel Disease, and can bioinformatics approaches identify novel biomarkers for personalized treatment strategies and ILCs?
 Backgroud: Inflammatory Bowel Disease (IBD), which includes Crohn's disease and ulcerative colitis, is a group of chronic inflammatory conditions of the gastrointestinal tract. The pathogenesis of IBD is complex, involving interactions between genetic susceptibility, environmental factors, and the gut microbiome. Despite extensive research, the precise molecular mechanisms remain poorly understood. Advances in bioinformatics, particularly in the analysis of high-dimensional omics data (genomics, transcriptomics, metagenomics, and proteomics), have opened new avenues to understand the underlying molecular causes of IBD. Techniques such as single-cell RNA sequencing, whole-genome sequencing, and microbiome analysis enable the identification of specific biomarkers, cellular changes, and microbial dysbiosis associated with IBD. Bioinformatics tools also allow for the integration of multi-omics datasets, providing a more comprehensive view of how genetic, epigenetic, and environmental factors converge to promote inflammation and disease progression.
-**Il18 Tissue expression (RNA)** <img src="/images/Bolg-Il18/il18-2.jpg"><br/><br/>
-**Il18 Tissue expression (Protein)** <img src="/images/Bolg-Il18/il18-3.jpg"><br/><br/>
-**Il18 Normal Human Intestine expression** <img src="/images/Bolg-Il18/il18-4.jpg"><br/><br/>
-**Il18 and Il18r expression for human intestine single cell rna-seq** <img src="/images/Bolg-Il18/il18-5.jpg"><br/><br/>
-**Il18 and Il18r expression for human intestine single cell rna-seq, GSE124880, Mice, CD45+ Immune Cell in SiLP and PP, Immunity** <img src="/images/Bolg-Il18/il18-6.jpg"><br/> <img src="/images/Bolg-Il18/il18-7.jpg"><br/><br/>
-**Il18 and Il18r expression for Epithelium** <img src="/images/Bolg-Il18/il18-8.jpg"><br/><br/>
-**Il18 and Il18r expression for IEL** <img src="/images/Bolg-Il18/il18-9.png"><br/><br/>
+
 **ATAC-seq GSE116093 IGV**<br/><img src="/images/GSE116093-IGV.png"><br/><br/>
 **Il18 DO and Il18 D14, Spatial transcriptomics** <img src="/images/IL18-D0.png"> <img src="/images/IL18-D14.png"><br/><br/>
 **ILC3 DO and D14, Spatial transcriptomics** <img src="/images/ILC3-D0.png"> <img src="/images/ILC3-D14.png"><br/><br/>
