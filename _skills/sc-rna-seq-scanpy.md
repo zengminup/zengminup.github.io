@@ -2,7 +2,7 @@
 title: "Single Cell RNA-seq (Based on Python-Scanpy)"
 collection: skills
 permalink: /skills/sc-rna-seq-scanpy
-excerpt: 'PBMC3k dataset. <br/><img src="/images/scanpy10.png">'
+excerpt: 'PBMC3k dataset. <br/><img src="/images/scanpy/scanpy10.png">'
 date: 2022-12-15
 ---
 
@@ -45,7 +45,7 @@ Show those genes that yield the highest fraction of counts in each single cell, 
 ```Python
 sc.pl.highest_expr_genes(adata, n_top=20)
 ```
-**Top 20 gene** <img src="/images/scanpy1.png"><br/>
+**Top 20 gene** <img src="/images/scanpy/scanpy1.png"><br/>
 
 A violin plot of some of the computed quality measures: the number of genes expressed in the count matrix; the total counts per cell; the percentage of counts in mitochondrial genes
 ```Python
@@ -65,8 +65,8 @@ sc.pl.violin(
 sc.pl.scatter(adata, x="total_counts", y="pct_counts_mt")
 sc.pl.scatter(adata, x="total_counts", y="n_genes_by_counts")
 ```
-**Violin QC Plot** <img src="/images/scanpy2.png"><br/>
-**QC Plot** <img src="/images/scanpy3.png"><br/>
+**Violin QC Plot** <img src="/images/scanpy/scanpy2.png"><br/>
+**QC Plot** <img src="/images/scanpy/scanpy3.png"><br/>
 
 ```Python
 adata = adata[adata.obs.n_genes_by_counts < 2500, :]
@@ -76,7 +76,7 @@ sc.pp.log1p(adata)
 sc.pp.highly_variable_genes(adata, min_mean=0.0125, max_mean=3, min_disp=0.5)
 sc.pl.highly_variable_genes(adata)
 ```
-**Highly variable genes** <img src="/images/scanpy5.png"><br/>
+**Highly variable genes** <img src="/images/scanpy/scanpy5.png"><br/>
 
 Set the .raw attribute of the AnnData object to the normalized and logarithmized raw gene expression for later use in differential testing and visualizations of gene expression. This simply freezes the state of the AnnData object.
 ```Python
@@ -92,13 +92,13 @@ Reduce the dimensionality of the data by running principal component analysis (P
 sc.tl.pca(adata, svd_solver="arpack")
 sc.pl.pca(adata, color="CST3")
 ```
-**PCA Plot** <img src="/images/scanpy6.png"><br/>
+**PCA Plot** <img src="/images/scanpy/scanpy6.png"><br/>
 Let us inspect the contribution of single PCs to the total variance in the data. This gives us information about how many PCs we should consider in order to compute the neighborhood relations of cells, e.g. used in the clustering function sc.tl.louvain() or tSNE sc.tl.tsne(). In our experience, often a rough estimate of the number of PCs does fine.
 ```Python
 sc.pl.pca_variance_ratio(adata, log=True)
 adata.write(results_file)
 ```
-**Variance Ratio Plot** <img src="/images/scanpy7.png"><br/>
+**Variance Ratio Plot** <img src="/images/scanpy/scanpy7.png"><br/>
 
 ### Step 5. Computing the neighborhood graph
 Let us compute the neighborhood graph of cells using the PCA representation of the data matrix. You might simply use default values here. For the sake of reproducing Seurat’s results, let’s take the following values.
@@ -107,7 +107,7 @@ sc.pp.neighbors(adata, n_neighbors=10, n_pcs=40)
 sc.tl.umap(adata)
 sc.pl.umap(adata, color=["CST3", "NKG7", "PPBP"])
 ```
-**UMAP Plot** <img src="/images/scanpy8.png"><br/>
+**UMAP Plot** <img src="/images/scanpy/scanpy8.png"><br/>
 
 ### Step 6. Clustering the neighborhood graph
 ```Python
@@ -122,7 +122,7 @@ sc.tl.leiden(
 sc.pl.umap(adata, color=["leiden", "CST3", "NKG7"])
 adata.write(results_file)
 ```
-**UMAP Plot2** <img src="/images/scanpy9.png"><br/>
+**UMAP Plot2** <img src="/images/scanpy/scanpy9.png"><br/>
 
 ### Step 6. Finding marker genes and annotation
 Let us compute a ranking for the highly differential genes in each cluster. For this, by default, the .raw attribute of AnnData is used in case it has been initialized before. The simplest and fastest method to do so is the t-test.
@@ -173,5 +173,5 @@ sc.pl.umap(
 )
 sc.pl.dotplot(adata, marker_genes, groupby="leiden");
 ```
-**Annotation Plot** <br/><img src="/images/scanpy10.png"><br/>
-**Dot Plot2** <br/><img src="/images/scanpy11.png"><br/>
+**Annotation Plot** <br/><img src="/images/scanpy/scanpy10.png"><br/>
+**Dot Plot2** <br/><img src="/images/scanpy/scanpy11.png"><br/>
