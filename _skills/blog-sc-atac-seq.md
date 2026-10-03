@@ -3,7 +3,7 @@ title: "Single Cell ATAC-seq Analysis Tutorial (Signac)"
 permalink: /posts/blog-sc-atac-seq/
 date: 2023-10-01
 excerpt: 'Single Cell ATAC-seq analysis tutorial. PBMC3K Example based R Programming Language. <br/>
-<img src="/images/Signac-11.png" style="width:900px; height:450px;">'
+<img src="/images/Signac/Signac-11.png" style="width:900px; height:450px;">'
 tags:
   - Bioinformatics
 ---
@@ -82,19 +82,19 @@ pbmc$pct_reads_in_peaks <- pbmc$peak_region_fragments / pbmc$passed_filters * 10
 pbmc$blacklist_ratio <- pbmc$blacklist_region_fragments / pbmc$peak_region_fragments
 DensityScatter(pbmc, x = 'nCount_peaks', y = 'TSS.enrichment', log_x = TRUE, quantiles = TRUE)
 ```
-Density<img src="/images/Signac-1.png"><br/>
+Density<img src="/images/Signac/Signac-1.png"><br/>
 We can inspect the TSS enrichment scores by grouping the cells based on the score and plotting the accessibility signal over all TSS sites.
 ```R
 pbmc$high.tss <- ifelse(pbmc$TSS.enrichment > 3, 'High', 'Low')
 TSSPlot(pbmc, group.by = 'high.tss') + NoLegend()
 ```
-**TSS enrichment scores** <img src="/images/Signac-2.png"><br/>
+**TSS enrichment scores** <img src="/images/Signac/Signac-2.png"><br/>
 We can also look at the fragment length periodicity for all the cells, and group by cells with high or low nucleosomal signal strength.
 ```R
 pbmc$nucleosome_group <- ifelse(pbmc$nucleosome_signal > 4, 'NS > 4', 'NS < 4')
 FragmentHistogram(object = pbmc, group.by = 'nucleosome_group')
 ```
-**TSS enrichment scores** <img src="/images/Signac-3.png"><br/>
+**TSS enrichment scores** <img src="/images/Signac/Signac-3.png"><br/>
 We can plot the distribution of each QC metric separately using a violin plot:
 ```R
 VlnPlot(
@@ -104,7 +104,7 @@ VlnPlot(
   ncol = 5
 )
 ```
-**TSS enrichment scores** <img src="/images/Signac-4.png"><br/>
+**TSS enrichment scores** <img src="/images/Signac/Signac-4.png"><br/>
 Finally we remove cells that are outliers for these QC metrics.
 ```R
 pbmc <- subset(
@@ -126,7 +126,7 @@ pbmc <- FindTopFeatures(pbmc, min.cutoff = 'q0')
 pbmc <- RunSVD(pbmc)
 DepthCor(pbmc)
 ```
-**Correlation** <img src="/images/Signac-5.png"><br/>
+**Correlation** <img src="/images/Signac/Signac-5.png"><br/>
 
 ### Step 4. Non-linear dimension reduction and clustering
 Now that the cells are embedded in a low-dimensional space we can use methods commonly applied for the analysis of scRNA-seq data to perform graph-based clustering and non-linear dimension reduction for visualization. The functions RunUMAP(), FindNeighbors(), and FindClusters() all come from the Seurat package.
@@ -137,7 +137,7 @@ pbmc <- FindNeighbors(object = pbmc, reduction = 'lsi', dims = 2:30)
 pbmc <- FindClusters(object = pbmc, verbose = FALSE, algorithm = 3)
 DimPlot(object = pbmc, label = TRUE) + NoLegend()
 ```
-**DimPlot Figure** <img src="/images/Signac-6.png"><br/>
+**DimPlot Figure** <img src="/images/Signac/Signac-6.png"><br/>
 
 ### Step 5. Create a gene activity matrix
 ```R
@@ -160,7 +160,7 @@ FeaturePlot(
   ncol = 3
 )
 ```
-**FeaturePlot Figure** <img src="/images/Signac-7.png"><br/>
+**FeaturePlot Figure** <img src="/images/Signac/Signac-7.png"><br/>
 
 
 ### Step 6. Integrating with scRNA-seq data
@@ -201,7 +201,7 @@ for(i in levels(pbmc)) {
   Idents(pbmc, cells = cells_to_reid) <- newid
 }
 ```
-**sc ATAC seq-sc RNA seq Figure** <img src="/images/Signac-8.png"><br/>
+**sc ATAC seq-sc RNA seq Figure** <img src="/images/Signac/Signac-8.png"><br/>
 
 ### Step 7. Find differentially accessible peaks between cell types
 To find differentially accessible regions between clusters of cells, we can perform a differential accessibility (DA) test. A simple approach is to perform a Wilcoxon rank sum test, and the presto package has implemented an extremely fast Wilcoxon test that can be run on a Seurat object.
@@ -231,7 +231,7 @@ plot2 <- FeaturePlot(
 
 plot1 | plot2
 ```
-**VlnPlot/FeaturePlot** <img src="/images/Signac-9.png"><br/>
+**VlnPlot/FeaturePlot** <img src="/images/Signac/Signac-9.png"><br/>
 
 Another way to find DA regions between two groups of cells is to look at the fold change accessibility between two groups of cells. This can be much faster than running more sophisticated DA tests, but is not able to account for latent variables such as differences in the total sequencing depth between cells, and does not perform any statistical test. However, this can still be a useful way to quickly explore data, and can be performed using the FoldChange() function in Seurat.
 ```R
@@ -261,5 +261,5 @@ CoveragePlot(
   extend.downstream = 20000
 )
 ```
-**CoveragePlot1** <img src="/images/Signac-10.png"><br/>
-**CoveragePlot2** <img src="/images/Signac-11.png"><br/>
+**CoveragePlot1** <img src="/images/Signac/Signac-10.png"><br/>
+**CoveragePlot2** <img src="/images/Signac/Signac-11.png"><br/>
