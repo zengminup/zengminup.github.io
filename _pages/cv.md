@@ -22,7 +22,7 @@ Education
 
 Academic Summary
 ======
-* Published 7 peer-reviewed articles, including 3 as first author; Google Scholar citations: 70 
+* Published 7 peer-reviewed articles, including 3 as first author; Google Scholar citations: 123 
 
 Academic Activities
 ======
